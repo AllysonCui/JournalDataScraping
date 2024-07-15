@@ -129,8 +129,8 @@ def delete_fork(repo_name, user="allysoncui"):
         print(f"Failed to delete {user}/{repo_name}!")
 
 if __name__ == "__main__":
-    url = ''
-#    original_owner, repo_name = extract_owner_and_repo('https://github.com/TPI-Immunogenetics/igmat')
+    original_owner, repo_name = extract_owner_and_repo('https://github.com/TPI-Immunogenetics/igmat')
+    print(f"Original owner: {original_owner}")
 #    if identify_if_py(original_owner, repo_name):
 #        clone_url = fork_repo(original_owner, repo_name)
 #        clone_repo(clone_url)

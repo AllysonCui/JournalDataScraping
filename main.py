@@ -1,10 +1,95 @@
-from data_cleaning import articles
 from fork_and_clone import *
 from process_files import *
 from tqdm import tqdm
 import pandas as pd
 import shutil
 
+def main(github_df, base_dir="client_projects", start=0, end=None):
+
+    # Read in existing annotated file
+    annotated_df = pd.DataFrame(columns=github_df.columns)
+    annotated_df = annotated_df.assign(fileName='', issues_1='', issues_2='', issues_3='')
+
+    invalid_df = pd.DataFrame(columns=github_df.columns)
+
+    if end == None:
+        end = len(github_df)
+
+    # Loop through GitHub links
+    for i in tqdm(github_df.index[start:end]):
+
+        # Keep track of number of valid URLs
+        valid = 0
+
+        url = github_df['githubLink'].loc[i]
+        try:
+            original_owner, repo_name = extract_owner_and_repo(url)
+
+            if identify_if_py(original_owner, repo_name) and get_repo_size(
+                    original_owner, repo_name) < 500000:
+                clone_url = fork_repo(original_owner, repo_name)
+                clone_repo(clone_url)
+                delete_fork(repo_name)
+
+                py_files = get_python_files(repo_name, base_dir)
+
+                repo_df = annotated_df.copy()
+
+                for file in py_files:
+                    valid += 1
+
+                    file_df = pd.DataFrame()
+
+                    # Submit to OpenAI and get response
+                    try:
+                        issue_summary = process_file(file)
+                    except:
+                        print("Could not process ", file)
+                        continue
+
+                    file_df['doi'] = github_df['doi'].loc[i]
+                    file_df['title'] = github_df['title'].loc[i]
+                    file_df['pubDate'] = github_df['pubDate'].loc[i]
+                    file_df['githubLink'] = url
+                    file_df['fileName'] = file
+                    file_df['issues_1'] = issue_summary[0]
+                    file_df['issues_2'] = issue_summary[1]
+                    file_df['issues_3'] = issue_summary[2]
+
+                    repo_df = pd.concat([repo_df, file_df], axis=0)
+
+                print(repo_df)
+
+                # Remove cloned directory
+                shutil.rmtree(f"client_projects/{repo_name}")
+                print(f"Deleted client_projects/{repo_name}")
+
+                print(valid)
+                annotated_df = pd.concat([annotated_df, repo_df], axis=0)
+                print("Saving")
+
+            else:
+                print(f"{original_owner}/{repo_name} does not contain a .py file OR is too large")
+
+        except:
+            print(f"Invalid URL")
+            invalid_df = pd.concat([invalid_df, github_df.loc[i]])
+            continue
+
+    return annotated_df, invalid_df
+
+
+
+if __name__=="__main__":
+    articles = pd.read_csv(os.path.join("data", "scientific_data_articles.csv"))
+    annotated_df, invalid_df = main(articles.sort_values("pubDate", ascending=False))
+    print(f"Length final df = {len(annotated_df)}")
+    annotated_df.to_csv(os.path.join("data", "annotated_scientific_data_articles.csv"))
+    invalid_df.to_csv(os.path.join("data", "invalid_scientific_data_articles.csv"))
+
+
+
+'''
 def main(github_df, base_dir="client_projects", start=0, end=None, annotated_file=os.path.join("data", "annotated_scientific_data_articles.csv"), invalid_file=os.path.join("data", "invalid_scientific_data_articles.csv")):
 
     # Read in existing annotated file
@@ -37,55 +122,49 @@ def main(github_df, base_dir="client_projects", start=0, end=None, annotated_fil
         # Keep track of number of valid URLs
         valid = 0
 
-        # Loop throught URLs associated with article
-        for url in github_df.loc[i]['codeLink']:
+        url = github_df['codeLink'].loc[i]
+        try:
+            original_owner, repo_name = extract_owner_and_repo(url)
+        except:
+            print(f"Invalid URL or does not contain .py file: {url}")
+            invalid_urls = pd.concat([invalid_urls, github_df.loc[i]])
+            continue
 
-            # Modify URL for weird structuring
-            url = url.replace("http:", "https:").replace("//www.", "//").replace(".git", "")
+        if identify_if_py(original_owner, repo_name) and get_repo_size(original_owner, repo_name) < 500000:
+            clone_url = fork_repo(original_owner, repo_name)
+            clone_repo(clone_url)
+            delete_fork(repo_name)
 
-            # Identify if the repo contains Py files, or skip entirely if not properly formatted
+            valid += 1
+        else:
+            print(f"{original_owner}/{repo_name} does not contain a .py file OR is too large")
+            continue
+
+        py_files = get_python_files(repo_name, base_dir)
+
+        repo_df = pd.DataFrame()
+        for file in py_files:
+            file_df = pd.DataFrame()
+
+            # Submit to OpenAI and get response
             try:
-                original_owner, repo_name = extract_owner_and_repo(url)
+                issue_summary = process_file(file)
             except:
-                print(f"Invalid URL or does not contain .py file: {url}")
-                invalid_urls = pd.concat([invalid_urls, github_df.loc[i]])
+                print("Could not process ", file)
                 continue
 
-            if identify_if_py(original_owner, repo_name) and get_repo_size(original_owner, repo_name) < 500000:
-                clone_url = fork_repo(original_owner, repo_name)
-                clone_repo(clone_url)
-                delete_fork(repo_name)
+            file_df['doi'] = [doi]
+            file_df['fileName'] = [file]
+            file_df['issues_1'] = [issue_summary[0]]
+            file_df['issues_2'] = [issue_summary[1]]
+            file_df['issues_3'] = [issue_summary[2]]
 
-                valid += 1
-            else:
-                print(f"{original_owner}/{repo_name} does not contain a .py file OR is too large")
-                continue
+            repo_df = pd.concat([repo_df, file_df], axis=0)
 
-            py_files = get_python_files(repo_name, base_dir)
-
-            repo_df = pd.DataFrame()
-            for file in py_files:
-                file_df = pd.DataFrame()
-
-                # Submit to OpenAI and get response
-                try:
-                    issue_summary = process_file(file)
-                except:
-                    print("Could not process ", file)
-                    continue
-
-                file_df['doi'] = [doi]
-                file_df['fileName'] = [file]
-                file_df['issues_1'] = [issue_summary[0]]
-                file_df['issues_2'] = [issue_summary[1]]
-                file_df['issues_3'] = [issue_summary[2]]
-
-                repo_df = pd.concat([repo_df, file_df], axis=0)
-
-                # Remove cloned directory
-            shutil.rmtree(f"client_projects/{repo_name}")
-            print(f"Deleted client_projects/{repo_name}")
-            # article_df = pd.concat([article_df, repo_df], axis=0) # TODO: Something wrong here
+        # Remove cloned directory
+        shutil.rmtree(f"client_projects/{repo_name}")
+        print(f"Deleted client_projects/{repo_name}")
+        # article_df = pd.concat([article_df, repo_df], axis=0) # TODO: Something wrong here
 
         # Only save if there has been a valid URL
         if valid > 0:
@@ -121,10 +200,5 @@ def main(github_df, base_dir="client_projects", start=0, end=None, annotated_fil
     full_annotated_df = pd.concat([done_articles, annotated_df], axis=0)
 
     return full_annotated_df, invalid_urls
+'''
 
-
-if __name__=="__main__":
-    annotated_df, invalid_urls = main(articles.sort_values("pubDate", ascending=False))
-    print(f"Length final df = {len(annotated_df)}")
-    # annotated_df.to_csv(os.path.join("data", "annotated_scientific_data_articles.csv"))
-    # invalid_urls.to_csv(os.path.join("data", "invalid_scientific_data_articles.csv"))

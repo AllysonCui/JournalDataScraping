@@ -1,0 +1,512 @@
+,doi,title,pubDate,githubLink
+0,https://doi.org/10.1186/s12859-023-05599-0,"ICON-GEMs: integration of co-expression network in genome-scale metabolic models, shedding light through systems biology",2023-12-21,https://github.com/ThummaratPaklao/ICOM-GEMs
+1,https://doi.org/10.1186/s12859-023-05624-2,IgMAT: immunoglobulin sequence multi-species annotation tool for any species including those with incomplete antibody annotation or unusual characteristics,2023-12-21,https://github.com/TPI-Immunogenetics/igmat
+3,https://doi.org/10.1186/s12859-023-05598-1,Injectiondesign: web service of plate design with optimized stratified block randomization for modern GC/LC-MS-based sample preparation,2023-12-20,https://github.com/CSi-Studio/InjectionDesign
+5,https://doi.org/10.1186/s12859-023-05613-5,PAPerFly: Partial Assembly-based Peak Finder for ab initio binding site reconstruction,2023-12-19,https://github.com/Caeph/paperfly
+5,https://doi.org/10.1186/s12859-023-05613-5,PAPerFly: Partial Assembly-based Peak Finder for ab initio binding site reconstruction,2023-12-19,https://github.com/gmarcais/Jellyfish
+5,https://doi.org/10.1186/s12859-023-05613-5,PAPerFly: Partial Assembly-based Peak Finder for ab initio binding site reconstruction,2023-12-19,https://github.com/GATB/bcalm
+6,https://doi.org/10.1186/s12859-023-05601-9,BioEGRE: a linguistic topology enhanced method for biomedical relation extraction based on BioELECTRA and graph pointer neural network,2023-12-19,https://github.com/zxw1995shawn/BioEGRE
+7,https://doi.org/10.1186/s12859-023-05606-4,PEPMatch: a tool to identify short peptide sequence matches in large sets of proteins,2023-12-18,https://github.com/IEDB/NmerMatch
+7,https://doi.org/10.1186/s12859-023-05606-4,PEPMatch: a tool to identify short peptide sequence matches in large sets of proteins,2023-12-18,https://github.com/IEDB/PEPMatch
+8,https://doi.org/10.1186/s12859-023-05618-0,GPDRP: a multimodal framework for drug response prediction with graph transformer,2023-12-17,https://github.com/yyk124/GPDRP
+9,https://doi.org/10.1186/s12859-023-05615-3,TCGAplot: an R package for integrative pan-cancer analysis and visualization of TCGA multi-omics data,2023-12-17,https://github.com/tjhwangxiong/TCGAplot
+10,https://doi.org/10.1186/s12859-023-05597-2,A compressed large language model embedding dataset of ICD 10 CM descriptions,2023-12-17,https://github.com/kaneplusplus/icd-10-cm-embedding
+10,https://doi.org/10.1186/s12859-023-05597-2,A compressed large language model embedding dataset of ICD 10 CM descriptions,2023-12-17,https://github.com/jkrijthe/Rtsne
+10,https://doi.org/10.1186/s12859-023-05597-2,A compressed large language model embedding dataset of ICD 10 CM descriptions,2023-12-17,https://github.com/tidyverse/stringr
+12,https://doi.org/10.1186/s12859-023-05608-2,Cellstitch: 3D cellular anisotropic image segmentation via optimal transport,2023-12-15,https://github.com/imyiningliu/cellstitch
+13,https://doi.org/10.1186/s12859-023-05605-5,A novel and innovative cancer classification framework through a consecutive utilization of hybrid feature selection,2023-12-15,https://github.com/Rabiaaziz2023/A-Novel-and-Innovative-Cancer-Classification-Framework-with-CSSMO
+16,https://doi.org/10.1186/s12859-023-05611-7,Predicting potential microbe-disease associations based on auto-encoder and graph convolution network,2023-12-14,https://github.com/cuntjx/microbe
+17,https://doi.org/10.1186/s12859-023-05588-3,"PhyloSophos: a high-throughput scientific name mapping algorithm augmented with explicit consideration of taxonomic science, and its application on natural product (NP) occurrence database processing",2023-12-14,https://github.com/mhcho4096/phylosophos
+19,https://doi.org/10.1186/s12859-023-05594-5,DL-PPI: a method on prediction of sequenced protein–protein interaction based on deep learning,2023-12-14,https://github.com/WuBoFu/DL-PPI
+20,https://doi.org/10.1186/s12859-023-05596-3,Performance analysis of conventional and AI-based variant callers using short and long reads,2023-12-14,https://github.com/Omar-Abd-Elwahab/Variant_Callers
+21,https://doi.org/10.1186/s12859-023-05602-8,ORFeus: a computational method to detect programmed ribosomal frameshifts and other non-canonical translation events,2023-12-13,https://github.com/morichardson/ORFeus
+22,https://doi.org/10.1186/s12859-023-05589-2,PhytoPipe: a phytosanitary pipeline for plant pathogen detection and diagnosis using RNA-seq data,2023-12-13,https://github.com/lh3/seqtk
+22,https://doi.org/10.1186/s12859-023-05589-2,PhytoPipe: a phytosanitary pipeline for plant pathogen detection and diagnosis using RNA-seq data,2023-12-13,https://github.com/healthyPlant/PhytoPipe
+23,https://doi.org/10.1186/s12859-023-05610-8,Rendering protein mutation movies with MutAmore,2023-12-12,https://github.com/kWeissenow/MutAmore
+24,https://doi.org/10.1186/s12859-023-05609-1,primerJinn: a tool for rationally designing multiplex PCR primer sets for amplicon sequencing and performing in silico PCR,2023-12-12,https://github.com/SemiQuant/PrimerJinn
+25,https://doi.org/10.1186/s12859-023-05603-7,A score-based method of immune status evaluation for healthy individuals with complete blood cell counts,2023-12-11,https://github.com/zhangbeibei-min/Immune-Status-Assessment
+26,https://doi.org/10.1186/s12859-023-05600-w,An oscillating reaction network with an exact closed form solution in the time domain,2023-12-09,https://github.com/ModelEngineering/Oscillators
+27,https://doi.org/10.1186/s12859-023-05529-0,Hierarchical classification-based pan-cancer methylation analysis to classify primary cancer,2023-12-08,https://github.com/yyp1999/Cancer-Hierarchical-Classification-Tool
+28,https://doi.org/10.1186/s12859-023-05604-6,Allele-specific binding (ASB) analyzer for annotation of allele-specific binding SNPs,2023-12-08,https://github.com/Liying1996/ASBanalyzer
+29,https://doi.org/10.1186/s12859-023-05590-9,SingleScan: a comprehensive resource for single-cell sequencing data processing and mining,2023-12-07,https://github.com/victorwang123/SingleScan
+30,https://doi.org/10.1186/s12859-023-05521-8,Incorporating mutational heterogeneity to identify genes that are enriched for synonymous mutations in cancer,2023-12-07,https://github.com/ryy1221/MutSigCVsyn)The
+31,https://doi.org/10.1186/s12859-023-05580-x,Lokatt: a hybrid DNA nanopore basecaller with an explicit duration hidden Markov model and a residual LSTM network,2023-12-07,https://github.com/chunxxc/lokatt
+31,https://doi.org/10.1186/s12859-023-05580-x,Lokatt: a hybrid DNA nanopore basecaller with an explicit duration hidden Markov model and a residual LSTM network,2023-12-07,https://github.com/nanoporetech/bonito
+33,https://doi.org/10.1186/s12859-023-05578-5,"pyComBat, a Python tool for batch effects correction in high-throughput molecular data using empirical Bayes methods",2023-12-07,https://github.com/epigenelabs/inmoose
+35,https://doi.org/10.1186/s12859-023-05587-4,G-bic: generating synthetic benchmarks for biclustering,2023-12-06,https://github.com/jplobo1313/G-Bic
+37,https://doi.org/10.1186/s12859-023-05592-7,Protein–protein interaction site prediction by model ensembling with hybrid feature and self-attention,2023-12-05,https://github.com/CandiceCong/StackingPPINet
+38,https://doi.org/10.1186/s12859-023-05582-9,HostNet: improved sequence representation in deep neural networks for virus-host prediction,2023-12-01,https://github.com/mingzhaoyan/hostnet
+39,https://doi.org/10.1186/s12859-023-05566-9,PMFFRC: a large-scale genomic short reads compression optimizer via memory modeling and redundant clustering,2023-11-30,https://github.com/fahaihi/PMFFRC
+40,https://doi.org/10.1186/s12859-023-05576-7,Completing a genomic characterisation of microscopic tumour samples with copy number,2023-11-30,https://github.com/VanLoo-lab/ascat
+40,https://doi.org/10.1186/s12859-023-05576-7,Completing a genomic characterisation of microscopic tumour samples with copy number,2023-11-30,https://github.com/FelixKrueger/TrimGalore
+42,https://doi.org/10.1186/s12859-023-05583-8,A seed expansion-based method to identify essential proteins by integrating protein–protein interaction sub-networks and multiple biological characteristics,2023-11-30,https://github.com/zhaohe555/SESN
+45,https://doi.org/10.1186/s12859-023-05581-w,Machine learning-based approaches for ubiquitination site prediction in human proteins,2023-11-28,https://github.com/mahdip72/ubi
+46,https://doi.org/10.1186/s12859-023-05524-5,Predicting anticancer synergistic drug combinations based on multi-task learning,2023-11-27,https://github.com/TOJSSE-iData/MTLSynergy
+47,https://doi.org/10.1186/s12859-023-05577-6,AptaTrans: a deep neural network for predicting aptamer-protein interaction using pretrained encoders,2023-11-27,https://github.com/pnumlb/AptaTrans
+48,https://doi.org/10.1186/s12859-023-05573-w,Transformer-based tool recommendation system in Galaxy,2023-11-27,https://github.com/galaxyproject/galaxy
+48,https://doi.org/10.1186/s12859-023-05573-w,Transformer-based tool recommendation system in Galaxy,2023-11-27,https://github.com/anuprulez/galaxy_tool_recommendation
+48,https://doi.org/10.1186/s12859-023-05573-w,Transformer-based tool recommendation system in Galaxy,2023-11-27,https://github.com/bgruening/galaxytools
+49,https://doi.org/10.1186/s12859-023-05563-y,scMuffin: an R package to disentangle solid tumor heterogeneity by single-cell gene expression analysis,2023-11-27,https://github.com/emosca-cnr/scMuffin
+52,https://doi.org/10.1186/s12859-023-05560-1,MiREx: mRNA levels prediction from gene sequence and miRNA target knowledge,2023-11-22,https://github.com/vagarwal87/Xpresso
+54,https://doi.org/10.1186/s12859-023-05553-0,Improved quality metrics for association and reproducibility in chromatin accessibility data using mutual information,2023-11-22,https://github.com/SLUR-m-Py/ATAC-seq_Simulation
+56,https://doi.org/10.1186/s12859-023-05506-7,Genome-scale metabolic models reveal determinants of phenotypic differences in non-Saccharomyces yeasts,2023-11-21,https://github.com/SandraCastilloPriego/CarveFungi
+57,https://doi.org/10.1186/s12859-023-05570-z,Image-centric compression of protein structures improves space savings,2023-11-21,https://github.com/lukestaniscia/PIC
+58,https://doi.org/10.1186/s12859-023-05564-x,GraphTar: applying word2vec and graph neural networks to miRNA target prediction,2023-11-17,https://github.com/SanoScience/graphtar
+58,https://doi.org/10.1186/s12859-023-05564-x,GraphTar: applying word2vec and graph neural networks to miRNA target prediction,2023-11-17,https://github.com/PyTorchLightning/pytorch-lightning
+59,https://doi.org/10.1186/s12859-023-05534-3,RUBic: rapid unsupervised biclustering,2023-11-16,https://github.com/CMATERJU-BIOINFO/RUBic
+60,https://doi.org/10.1186/s12859-023-05535-2,PathExpSurv: pathway expansion for explainable survival analysis and disease gene discovery,2023-11-15,https://github.com/Wu-Lab/PathExpSurv
+61,https://doi.org/10.1186/s12859-023-05549-w,Protein language models can capture protein quaternary state,2023-11-14,https://github.com/Furman-Lab/QUEEN
+62,https://doi.org/10.1186/s12859-023-05552-1,Similarity-assisted variational autoencoder for nonlinear dimension reduction with application to single-cell RNA sequencing data,2023-11-14,https://github.com/lmcinnes/umap
+62,https://doi.org/10.1186/s12859-023-05552-1,Similarity-assisted variational autoencoder for nonlinear dimension reduction with application to single-cell RNA sequencing data,2023-11-14,https://github.com/shahcompbio/scvis
+62,https://doi.org/10.1186/s12859-023-05552-1,Similarity-assisted variational autoencoder for nonlinear dimension reduction with application to single-cell RNA sequencing data,2023-11-14,https://github.com/scverse/scvi-tools
+62,https://doi.org/10.1186/s12859-023-05552-1,Similarity-assisted variational autoencoder for nonlinear dimension reduction with application to single-cell RNA sequencing data,2023-11-14,https://github.com/GwangWooKim/saVAE
+62,https://doi.org/10.1186/s12859-023-05552-1,Similarity-assisted variational autoencoder for nonlinear dimension reduction with application to single-cell RNA sequencing data,2023-11-14,https://github.com/ngoc-nguyen-0/DGG
+62,https://doi.org/10.1186/s12859-023-05552-1,Similarity-assisted variational autoencoder for nonlinear dimension reduction with application to single-cell RNA sequencing data,2023-11-14,https://github.com/beringresearch/ivis
+63,https://doi.org/10.1186/s12859-023-05525-4,G-Aligner: a graph-based feature alignment method for untargeted LC–MS-based metabolomics,2023-11-14,https://github.com/CSi-Studio/G-Aligner
+64,https://doi.org/10.1186/s12859-023-05562-z,DG-Affinity: predicting antigen–antibody affinity with language models from sequences,2023-11-13,https://github.com/facebookresearch/ConvNeXt
+64,https://doi.org/10.1186/s12859-023-05562-z,DG-Affinity: predicting antigen–antibody affinity with language models from sequences,2023-11-13,https://github.com/weiaicunzai/pytorch-cifar100
+64,https://doi.org/10.1186/s12859-023-05562-z,DG-Affinity: predicting antigen–antibody affinity with language models from sequences,2023-11-13,https://github.com/piercelab/antibody_benchmark
+65,https://doi.org/10.1186/s12859-023-05551-2,A novel two-way rebalancing strategy for identifying carbonylation sites,2023-11-13,https://github.com/CrazyMage313/Carsite_AGan
+67,https://doi.org/10.1186/s12859-023-05558-9,Mdwgan-gp: data augmentation for gene expression data based on multiple discriminator WGAN-GP,2023-11-13,https://github.com/lryup/MDWGAN-GP
+68,https://doi.org/10.1186/s12859-023-05537-0,Statistical modeling to quantify the uncertainty of FoldX-predicted protein folding and binding stability,2023-11-12,https://github.com/yesols/foldx_uncertainty
+69,https://doi.org/10.1186/s12859-023-05559-8,Role of environmental specificity in CASP results,2023-11-11,https://github.com/KatarzynaStapor/FODmodel
+70,https://doi.org/10.1186/s12859-023-05548-x,ILIAD: a suite of automated Snakemake workflows for processing genomic data for downstream applications,2023-11-08,https://github.com/ncherric/Iliad
+70,https://doi.org/10.1186/s12859-023-05548-x,ILIAD: a suite of automated Snakemake workflows for processing genomic data for downstream applications,2023-11-08,https://github.com/freeseek/gtc2vcf
+72,https://doi.org/10.1186/s12859-023-05532-5,Comparative Study of Single-stranded Oligonucleotides Secondary Structure Prediction Tools,2023-11-08,https://github.com/GEC-git/AptaMat
+73,https://doi.org/10.1186/s12859-023-05555-y,"Fast alignment of mass spectra in large proteomics datasets, capturing dissimilarities arising from multiple complex modifications of peptides",2023-11-08,https://github.com/bibs-lab/SpecGlobX
+74,https://doi.org/10.1186/s12859-023-05490-y,Sctensor detects many-to-many cell–cell interactions from single cell RNA-sequencing data,2023-11-07,https://github.com/rikenbit/scTensor-experiments
+74,https://doi.org/10.1186/s12859-023-05490-y,Sctensor detects many-to-many cell–cell interactions from single cell RNA-sequencing data,2023-11-07,https://github.com/rikenbit/lrbase-workflow
+75,https://doi.org/10.1186/s12859-023-05557-w,Hybrid deep learning approach to improve classification of low-volume high-dimensional data,2023-11-07,https://github.com/dmlc/xgboost
+75,https://doi.org/10.1186/s12859-023-05557-w,Hybrid deep learning approach to improve classification of low-volume high-dimensional data,2023-11-07,https://github.com/skinnerlab/DL-ML-Hybrid
+75,https://doi.org/10.1186/s12859-023-05557-w,Hybrid deep learning approach to improve classification of low-volume high-dimensional data,2023-11-07,https://github.com/holderlb/DL-ML-Hybrid
+75,https://doi.org/10.1186/s12859-023-05557-w,Hybrid deep learning approach to improve classification of low-volume high-dimensional data,2023-11-07,https://github.com/tarunsharma87/sentiment-analysis-python
+76,https://doi.org/10.1186/s12859-023-05545-0,Ab initio protein structure prediction: the necessary presence of external force field as it is delivered by Hsp40 chaperone,2023-11-07,https://github.com/KatarzynaStapor/FODmodel
+77,https://doi.org/10.1186/s12859-023-05494-8,ScLSTM: single-cell type detection by siamese recurrent network and hierarchical clustering,2023-11-07,https://github.com/HanJingJiang/ScLSTM
+78,https://doi.org/10.1186/s12859-023-05508-5,Multilayer network alignment based on topological assessment via embeddings,2023-11-06,https://github.com/pietrocinaglia/danteml
+80,https://doi.org/10.1186/s12859-023-05547-y,Predicting active enhancers with DNA methylation and histone modification,2023-11-02,https://github.com/TracyHIT/eRNA_predict
+81,https://doi.org/10.1186/s12859-023-05520-9,Deep learning-enabled natural language processing to identify directional pharmacokinetic drug–drug interactions,2023-11-01,https://github.com/tensorflow/models
+81,https://doi.org/10.1186/s12859-023-05520-9,Deep learning-enabled natural language processing to identify directional pharmacokinetic drug–drug interactions,2023-11-01,https://github.com/kamalkraj/BERT-NER-TF
+81,https://doi.org/10.1186/s12859-023-05520-9,Deep learning-enabled natural language processing to identify directional pharmacokinetic drug–drug interactions,2023-11-01,https://github.com/FDA/Neural-Networks-based-Natural-Language-Processing
+81,https://doi.org/10.1186/s12859-023-05520-9,Deep learning-enabled natural language processing to identify directional pharmacokinetic drug–drug interactions,2023-11-01,https://github.com/dmis-lab/biobert
+82,https://doi.org/10.1186/s12859-023-05539-y,Serial KinderMiner (SKiM) discovers and annotates biomedical knowledge using co-occurrence and transformer models,2023-11-01,https://github.com/stewart-lab/fast_km
+82,https://doi.org/10.1186/s12859-023-05539-y,Serial KinderMiner (SKiM) discovers and annotates biomedical knowledge using co-occurrence and transformer models,2023-11-01,https://github.com/stewart-lab/kinderminer_kg
+82,https://doi.org/10.1186/s12859-023-05539-y,Serial KinderMiner (SKiM) discovers and annotates biomedical knowledge using co-occurrence and transformer models,2023-11-01,https://github.com/explosion/projects
+83,https://doi.org/10.1186/s12859-023-05511-w,Structure-informed clustering for population stratification in association studies,2023-10-31,https://github.com/aritra90/CluStrat
+85,https://doi.org/10.1186/s12859-023-05542-3,Raman spectroscopy-based prediction of ofloxacin concentration in solution using a novel loss function and an improved GA-CNN model,2023-10-30,https://github.com/Mchyu/Novel-Loss-Function-and-an-Improved-GA-CNN
+86,https://doi.org/10.1186/s12859-023-05510-x,Roastgsa: a comparison of rotation-based scores for gene set enrichment analysis,2023-10-30,https://github.com/BBIRBCF/roastgsasource
+86,https://doi.org/10.1186/s12859-023-05510-x,Roastgsa: a comparison of rotation-based scores for gene set enrichment analysis,2023-10-30,https://github.com/waldronlab/GSEABenchmarkeR
+87,https://doi.org/10.1186/s12859-023-05540-5,Biomarker detection using corrected degree of domesticity in hybrid social network feature selection for improving classifier performance,2023-10-30,https://github.com/adolfoalvarez/Force-Atlas-2
+87,https://doi.org/10.1186/s12859-023-05540-5,Biomarker detection using corrected degree of domesticity in hybrid social network feature selection for improving classifier performance,2023-10-30,https://github.com/ygmrzngn/snfs
+90,https://doi.org/10.1186/s12859-023-05533-4,Picky with peakpicking: assessing chromatographic peak quality with simple metrics in metabolomics,2023-10-28,https://github.com/wkumler/xcms
+90,https://doi.org/10.1186/s12859-023-05533-4,Picky with peakpicking: assessing chromatographic peak quality with simple metrics in metabolomics,2023-10-28,https://github.com/wkumler/MS_metrics
+91,https://doi.org/10.1186/s12859-023-05530-7,SeQual-Stream: approaching stream processing to quality control of NGS datasets,2023-10-27,https://github.com/UDC-GAC/SeQual-Stream
+92,https://doi.org/10.1186/s12859-023-05541-4,deltaXpress (ΔXpress): a tool for mapping differentially correlated genes using single-cell qPCR data,2023-10-27,https://github.com/Murillo22/dXpress
+94,https://doi.org/10.1186/s12859-023-05531-6,Pan-genome de Bruijn graph using the bidirectional FM-index,2023-10-26,https://github.com/biointec/nexus
+95,https://doi.org/10.1186/s12859-023-05519-2,Regularized multi-trait multi-locus linear mixed models for genome-wide association studies and genomic selection in crops,2023-10-26,https://github.com/aclozanohuang/mtLMMreg
+96,https://doi.org/10.1186/s12859-023-05459-x,TreeKernel: interpretable kernel machine tests for interactions between -omics and clinical predictors with applications to metabolomics and COPD phenotypes,2023-10-25,https://github.com/Ghoshlab/TreeKernel
+97,https://doi.org/10.1186/s12859-023-05543-2,"EMDL_m6Am: identifying N6,2′-O-dimethyladenosine sites based on stacking ensemble deep learning",2023-10-25,https://github.com/13133989982/EMDL-m6Am
+98,https://doi.org/10.1186/s12859-023-05517-4,PerFSeeB: designing long high-weight single spaced seeds for full sensitivity alignment with a given number of mismatches,2023-10-24,https://github.com/vtman/PerFSeeB
+99,https://doi.org/10.1186/s12859-023-05528-1,Identification of transcription factor high accumulation DNA zones,2023-10-20,https://github.com/DEIB-GECO/TFHAZ
+101,https://doi.org/10.1186/s12859-023-05432-8,iDESC: identifying differential expression in single-cell RNA sequencing data with multiple subjects,2023-08-22,https://github.com/yl883/iDESC
+102,https://doi.org/10.1186/s12859-023-05526-3,Designs for the simultaneous inference of concentration–response curves,2023-10-19,https://github.com/schuermeyer/Designs-for-the-simultaneous-inference-of-concentration-response-curves
+103,https://doi.org/10.1186/s12859-023-05502-x,Artificial Intelligence based wrapper for high dimensional feature selection,2023-10-18,https://github.com/rahijaingithub/AIWrap
+104,https://doi.org/10.1186/s12859-023-05504-9,Asterics: a simple tool for the ExploRation and Integration of omiCS data,2023-10-18,https://github.com/mikelove/awesome-multi-omics
+106,https://doi.org/10.1186/s12859-023-05527-2,EasyCGTree: a pipeline for prokaryotic phylogenomic analysis based on core gene sets,2023-10-14,https://github.com/zdf1987/EasyCGTree4
+106,https://doi.org/10.1186/s12859-023-05527-2,EasyCGTree: a pipeline for prokaryotic phylogenomic analysis based on core gene sets,2023-10-14,https://github.com/rstudio/rstudio
+107,https://doi.org/10.1186/s12859-023-05513-8,lifex-ep: a robust and efficient software for cardiac electrophysiology simulations,2023-10-13,https://github.com/coin-or/ADOL-C
+107,https://doi.org/10.1186/s12859-023-05513-8,lifex-ep: a robust and efficient software for cardiac electrophysiology simulations,2023-10-13,https://github.com/opencollab/arpack-ng
+108,https://doi.org/10.1186/s12859-023-05486-8,Unbiased image segmentation assessment toolkit for quantitative differentiation of state-of-the-art algorithms and pipelines,2023-10-12,https://github.com/catboost/catboost
+108,https://doi.org/10.1186/s12859-023-05486-8,Unbiased image segmentation assessment toolkit for quantitative differentiation of state-of-the-art algorithms and pipelines,2023-10-12,https://github.com/PolusAI/nyxus
+108,https://doi.org/10.1186/s12859-023-05486-8,Unbiased image segmentation assessment toolkit for quantitative differentiation of state-of-the-art algorithms and pipelines,2023-10-12,https://github.com/PolusAI/polus-plugins
+109,https://doi.org/10.1186/s12859-023-05512-9,cgMSI: pathogen detection within species from nanopore metagenomic sequencing data,2023-10-12,https://github.com/ZHU-XU-xmu/cgMSI
+109,https://doi.org/10.1186/s12859-023-05512-9,cgMSI: pathogen detection within species from nanopore metagenomic sequencing data,2023-10-12,https://github.com/LomanLab/mockcommunity#data-availability
+111,https://doi.org/10.1186/s12859-023-05522-7,disperseNN2: a neural network for estimating dispersal distance from georeferenced polymorphism data,2023-10-11,https://github.com/kr-colab/disperseNN2
+111,https://doi.org/10.1186/s12859-023-05522-7,disperseNN2: a neural network for estimating dispersal distance from georeferenced polymorphism data,2023-10-11,https://github.com/HarisIqbal88/PlotNeuralNet
+111,https://doi.org/10.1186/s12859-023-05522-7,disperseNN2: a neural network for estimating dispersal distance from georeferenced polymorphism data,2023-10-11,https://github.com/keras-team/keras
+112,https://doi.org/10.1186/s12859-023-05514-7,MSXFGP: combining improved sparrow search algorithm with XGBoost for enhanced genomic prediction,2023-10-11,https://github.com/DIBreeding/MSXFGP
+113,https://doi.org/10.1186/s12859-023-05507-6,Network-based prediction approach for cancer-specific driver missense mutations using a graph neural network,2023-10-10,https://github.com/clinfo/Net-DMPred
+113,https://doi.org/10.1186/s12859-023-05507-6,Network-based prediction approach for cancer-specific driver missense mutations using a graph neural network,2023-10-10,https://github.com/KarchinLab/probabilistic2020
+118,https://doi.org/10.1186/s12859-023-05503-w,CurvAGN: Curvature-based Adaptive Graph Neural Networks for Predicting Protein-Ligand Binding Affinity,2023-10-05,https://github.com/tumancao/CurvAGN
+119,https://doi.org/10.1186/s12859-023-05499-3,"Mabs, a suite of tools for gene-informed genome assembly",2023-10-04,https://github.com/shelkmike/Mabs
+119,https://doi.org/10.1186/s12859-023-05499-3,"Mabs, a suite of tools for gene-informed genome assembly",2023-10-04,https://github.com/rrwick/Filtlong
+120,https://doi.org/10.1186/s12859-023-05491-x,PRMxAI: protein arginine methylation sites prediction based on amino acid spatial distribution using explainable artificial intelligence,2023-10-04,https://github.com/Monika01p/PRMxAI_PMS
+121,https://doi.org/10.1186/s12859-023-05496-6,"Graph regularized non-negative matrix factorization with \(L_{2,1}\) norm regularization terms for drug–target interactions prediction",2023-10-03,https://github.com/zhang340jj/iPALM-DLMF
+122,https://doi.org/10.1186/s12859-023-05479-7,DrugRep-HeSiaGraph: when heterogenous siamese neural network meets knowledge graphs for drug repurposing,2023-10-03,https://github.com/CBRC-lab/DrugRep-HeSiaGraph
+123,https://doi.org/10.1186/s12859-023-05498-4,SeqPredNN: a neural network that generates protein sequences that fold into specified tertiary structures,2023-10-03,https://github.com/falategan/SeqPredNN
+125,https://doi.org/10.1186/s12859-023-05492-w,HoCoRT: host contamination removal tool,2023-10-02,https://github.com/ignasrum/hocort
+126,https://doi.org/10.1186/s12859-023-05452-4,FLARE: a fast and flexible workflow for identifying RNA editing foci,2023-10-02,https://github.com/YeoLab/FLARE
+127,https://doi.org/10.1186/s12859-023-05500-z,Reference-based genome compression using the longest matched substrings with parallelization consideration,2023-09-30,https://github.com/zhi-wen-Lu/LMSRGC
+128,https://doi.org/10.1186/s12859-023-05478-8,Predicting tumour content of liquid biopsies from cell-free DNA,2023-09-30,https://github.com/TsuiLab/sWGS
+129,https://doi.org/10.1186/s12859-023-05497-5,DGDTA: dynamic graph attention network for predicting drug–target binding affinity,2023-09-30,https://github.com/thinng/GraphDTA
+129,https://doi.org/10.1186/s12859-023-05497-5,DGDTA: dynamic graph attention network for predicting drug–target binding affinity,2023-09-30,https://github.com/luojunwei/DGDTA
+130,https://doi.org/10.1186/s12859-023-05482-y,A robust approach to 3D neuron shape representation for quantification and classification,2023-09-28,https://github.com/matlabbaltam/Neuron-Morphology
+131,https://doi.org/10.1186/s12859-023-05493-9,Automatic echocardiographic anomalies interpretation using a stacked residual-dense network model,2023-09-27,https://github.com/ISySRGg/Echo-Infant
+133,https://doi.org/10.1186/s12859-023-05495-7,A heterogeneous graph convolutional attention network method for classification of autism spectrum disorder,2023-09-27,https://github.com/pcdslab/ASD-DiagNet
+134,https://doi.org/10.1186/s12859-023-05458-y,Inferring circadian gene regulatory relationships from gene expression data with a hybrid framework,2023-09-26,https://github.com/hu038/Circadian_gene_relationships
+136,https://doi.org/10.1186/s12859-023-05489-5,Fast and sensitive validation of fusion transcripts in whole-genome sequencing data,2023-09-23,https://github.com/VolundurH/wgs_fusion_pipeline
+138,https://doi.org/10.1186/s12859-023-05475-x,Identification of plant vacuole proteins by using graph neural network and contact maps,2023-09-22,https://github.com/SJNNNN/GraphIdn
+138,https://doi.org/10.1186/s12859-023-05475-x,Identification of plant vacuole proteins by using graph neural network and contact maps,2023-09-22,https://github.com/Rostlab/SeqVec.The
+140,https://doi.org/10.1186/s12859-023-05472-0,KidneyGPS: a user-friendly web application to help prioritize kidney function genes and variants based on evidence from genome-wide association studies,2023-09-21,https://github.com/kjstanzick/KidneyGPS
+141,https://doi.org/10.1186/s12859-023-05470-2,Critical assessment of on-premise approaches to scalable genome analysis,2023-09-21,https://github.com/arq5x/gemini
+141,https://doi.org/10.1186/s12859-023-05470-2,Critical assessment of on-premise approaches to scalable genome analysis,2023-09-21,https://github.com/opencb/opencga
+141,https://doi.org/10.1186/s12859-023-05470-2,Critical assessment of on-premise approaches to scalable genome analysis,2023-09-21,https://github.com/pcingola/SnpSift
+141,https://doi.org/10.1186/s12859-023-05470-2,Critical assessment of on-premise approaches to scalable genome analysis,2023-09-21,https://github.com/samtools/bcftools
+141,https://doi.org/10.1186/s12859-023-05470-2,Critical assessment of on-premise approaches to scalable genome analysis,2023-09-21,https://github.com/syaffers/genomic_ds_queries
+141,https://doi.org/10.1186/s12859-023-05470-2,Critical assessment of on-premise approaches to scalable genome analysis,2023-09-21,https://github.com/hail-is/hail
+143,https://doi.org/10.1186/s12859-023-05483-x,Reply: Correspondence on NanoVar’s performance outlined by Jiang T. et al. in ‘Long-read sequencing settings for efficient structural variation detection based on comprehensive evaluation’,2023-09-20,https://github.com/davidebolo1993/VISOR
+143,https://doi.org/10.1186/s12859-023-05483-x,Reply: Correspondence on NanoVar’s performance outlined by Jiang T. et al. in ‘Long-read sequencing settings for efficient structural variation detection based on comprehensive evaluation’,2023-09-20,https://github.com/SQLiu-youyou/The-commands-of-the-evaluation
+144,https://doi.org/10.1186/s12859-023-05484-w,Correspondence on NanoVar’s performance outlined by Jiang T. et al. in “Long-read sequencing settings for efficient structural variation detection based on comprehensive evaluation”,2023-09-20,https://github.com/davidebolo1993/VISOR
+144,https://doi.org/10.1186/s12859-023-05484-w,Correspondence on NanoVar’s performance outlined by Jiang T. et al. in “Long-read sequencing settings for efficient structural variation detection based on comprehensive evaluation”,2023-09-20,https://github.com/cytham/nv_benchmark_jiang
+144,https://doi.org/10.1186/s12859-023-05484-w,Correspondence on NanoVar’s performance outlined by Jiang T. et al. in “Long-read sequencing settings for efficient structural variation detection based on comprehensive evaluation”,2023-09-20,https://github.com/SQLiu-youyou/The-commands-of-the-evaluation
+145,https://doi.org/10.1186/s12859-023-05473-z,ECL 3.0: a sensitive peptide identification tool for cross-linking mass spectrometry data analysis,2023-09-20,https://github.com/yuweichuan/ECL-PF
+146,https://doi.org/10.1186/s12859-023-05476-w,Bulk brain tissue cell-type deconvolution with bias correction for single-nuclei RNA sequencing data using DeTREM,2023-09-19,https://github.com/ellispatrick/CortexCellDeconv
+146,https://doi.org/10.1186/s12859-023-05476-w,Bulk brain tissue cell-type deconvolution with bias correction for single-nuclei RNA sequencing data using DeTREM,2023-09-19,https://github.com/nkoneill/DeTREM
+147,https://doi.org/10.1186/s12859-023-05485-9,Prediction of plant secondary metabolic pathways using deep transfer learning,2023-09-19,https://github.com/mwang87/NP-Classifier
+147,https://doi.org/10.1186/s12859-023-05485-9,Prediction of plant secondary metabolic pathways using deep transfer learning,2023-09-19,https://github.com/ucasaccn/PSMPP
+148,https://doi.org/10.1186/s12859-023-05481-z,An unsupervised deep learning framework for predicting human essential genes from population and functional genomic data,2023-09-18,https://github.com/yifei-lab/DeepLOF
+148,https://doi.org/10.1186/s12859-023-05481-z,An unsupervised deep learning framework for predicting human essential genes from population and functional genomic data,2023-09-18,https://github.com/macarthur-lab/gene_lists
+148,https://doi.org/10.1186/s12859-023-05481-z,An unsupervised deep learning framework for predicting human essential genes from population and functional genomic data,2023-09-18,https://github.com/macarthur-lab/gnomad_lof
+150,https://doi.org/10.1186/s12859-023-05469-9,DeepCAC: a deep learning approach on DNA transcription factors classification based on multi-head self-attention and concatenate convolutional neural network,2023-09-18,https://github.com/p-koo/learning_sequence_motifs
+151,https://doi.org/10.1186/s12859-023-05416-8,MAVEN: compound mechanism of action analysis and visualisation using transcriptomics and compound structure data in R/Shiny,2023-09-15,https://github.com/BenderGroup/PIDGINv4
+151,https://doi.org/10.1186/s12859-023-05416-8,MAVEN: compound mechanism of action analysis and visualisation using transcriptomics and compound structure data in R/Shiny,2023-09-15,https://github.com/zachcp/chemdoodle
+151,https://doi.org/10.1186/s12859-023-05416-8,MAVEN: compound mechanism of action analysis and visualisation using transcriptomics and compound structure data in R/Shiny,2023-09-15,https://github.com/saezlab/carnival
+151,https://doi.org/10.1186/s12859-023-05416-8,MAVEN: compound mechanism of action analysis and visualisation using transcriptomics and compound structure data in R/Shiny,2023-09-15,https://github.com/saezlab/CARNIVAL
+151,https://doi.org/10.1186/s12859-023-05416-8,MAVEN: compound mechanism of action analysis and visualisation using transcriptomics and compound structure data in R/Shiny,2023-09-15,https://github.com/saezlab/shinyfunki
+151,https://doi.org/10.1186/s12859-023-05416-8,MAVEN: compound mechanism of action analysis and visualisation using transcriptomics and compound structure data in R/Shiny,2023-09-15,https://github.com/saezlab/transcriptutorial
+151,https://doi.org/10.1186/s12859-023-05416-8,MAVEN: compound mechanism of action analysis and visualisation using transcriptomics and compound structure data in R/Shiny,2023-09-15,https://github.com/laylagerami/MAVEN
+153,https://doi.org/10.1186/s12859-023-05471-1,Scellpam: an R package/C++ library to perform parallel partitioning around medoids on scRNAseq data sets,2023-09-14,https://github.com/JdMDE/ppamlib
+153,https://doi.org/10.1186/s12859-023-05471-1,Scellpam: an R package/C++ library to perform parallel partitioning around medoids on scRNAseq data sets,2023-09-14,https://github.com/JdMDE/jmatlib
+154,https://doi.org/10.1186/s12859-023-05445-3,A systematic comparison of human mitochondrial genome assembly tools,2023-09-13,https://github.com/MatteoSchiavinato/all2vcf
+154,https://doi.org/10.1186/s12859-023-05445-3,A systematic comparison of human mitochondrial genome assembly tools,2023-09-13,https://github.com/Nirmal2310/Mitochondrial_Benchmarking_study
+155,https://doi.org/10.1186/s12859-023-05461-3,"BiocMAP: a Bioconductor-friendly, GPU-accelerated pipeline for bisulfite-sequencing data",2023-09-13,https://github.com/dpryan79/MethylDackel
+155,https://doi.org/10.1186/s12859-023-05461-3,"BiocMAP: a Bioconductor-friendly, GPU-accelerated pipeline for bisulfite-sequencing data",2023-09-13,https://github.com/theislab/zellkonverter
+155,https://doi.org/10.1186/s12859-023-05461-3,"BiocMAP: a Bioconductor-friendly, GPU-accelerated pipeline for bisulfite-sequencing data",2023-09-13,https://github.com/LieberInstitute/BiocMAP
+157,https://doi.org/10.1186/s12859-023-05455-1,Prediction of the effects of small molecules on the gut microbiome using machine learning method integrating with optimal molecular features,2023-09-12,https://github.com/rdkit/rdkit
+157,https://doi.org/10.1186/s12859-023-05455-1,Prediction of the effects of small molecules on the gut microbiome using machine learning method integrating with optimal molecular features,2023-09-12,https://github.com/dmlc/xgboost
+159,https://doi.org/10.1186/s12859-023-05466-y,"Rinmaker: a fast, versatile and reliable tool to determine residue interaction networks in proteins",2023-09-11,https://github.com/PDBeurope/arpeggio
+160,https://doi.org/10.1186/s12859-023-05441-7,HMCDA: a novel method based on the heterogeneous graph neural network and metapath for circRNA-disease associations prediction,2023-09-11,https://github.com/shiyangl/HMCDA
+161,https://doi.org/10.1186/s12859-023-05460-4,SubMDTA: drug target affinity prediction based on substructure extraction and multi-scale features,2023-09-07,https://github.com/1q84er/SubMDTA
+162,https://doi.org/10.1186/s12859-023-05456-0,IHCP: interpretable hepatitis C prediction system based on black-box machine learning models,2023-09-06,https://github.com/giorgiovisani/LIME_stabilitly
+162,https://doi.org/10.1186/s12859-023-05456-0,IHCP: interpretable hepatitis C prediction system based on black-box machine learning models,2023-09-06,https://github.com/XiqianLu/IHCP
+163,https://doi.org/10.1186/s12859-023-05435-5,Automatically transferring supervised targets method for segmenting lung lesion regions with CT imaging,2023-09-04,https://github.com/JoHof/lungmask
+165,https://doi.org/10.1186/s12859-023-05457-z,Acorn: an R package for de novo variant analysis,2023-09-02,https://github.com/TNTurnerLab/acorn
+167,https://doi.org/10.1186/s12859-023-05439-1,Empirical evaluation of language modeling to ascertain cancer outcomes from clinical text reports,2023-09-02,https://github.com/marakeby/clinicalNLP2
+168,https://doi.org/10.1186/s12859-023-05449-z,Galba: genome annotation with miniprot and AUGUSTUS,2023-08-31,https://github.com/gatech-genemark/EukSpecies-BRAKER2
+168,https://doi.org/10.1186/s12859-023-05449-z,Galba: genome annotation with miniprot and AUGUSTUS,2023-08-31,https://github.com/gatech-genemark/BRAKER2-exp
+168,https://doi.org/10.1186/s12859-023-05449-z,Galba: genome annotation with miniprot and AUGUSTUS,2023-08-31,https://github.com/gatech-genemark/GeneMark-ETP-exp
+168,https://doi.org/10.1186/s12859-023-05449-z,Galba: genome annotation with miniprot and AUGUSTUS,2023-08-31,https://github.com/tomasbruna/orthodb-clades
+168,https://doi.org/10.1186/s12859-023-05449-z,Galba: genome annotation with miniprot and AUGUSTUS,2023-08-31,https://github.com/nextgenusfs/funannotate
+168,https://doi.org/10.1186/s12859-023-05449-z,Galba: genome annotation with miniprot and AUGUSTUS,2023-08-31,https://github.com/Gaius-Augustus/BRAKER
+168,https://doi.org/10.1186/s12859-023-05449-z,Galba: genome annotation with miniprot and AUGUSTUS,2023-08-31,https://github.com/tomasbruna/miniprothint
+169,https://doi.org/10.1186/s12859-023-05440-8,scSNPdemux: a sensitive demultiplexing pipeline using single nucleotide polymorphisms for improved pooled single-cell RNA sequencing analysis,2023-08-31,https://github.com/wkljohn/scSNPdemux
+170,https://doi.org/10.1186/s12859-023-05453-3,EDST: a decision stump based ensemble algorithm for synergistic drug combination prediction,2023-08-29,https://github.com/chenjing13/EDST
+171,https://doi.org/10.1186/s12859-023-05451-5,A knowledge graph approach to predict and interpret disease-causing gene interactions,2023-08-29,https://github.com/oligogenic/ARBOCK
+172,https://doi.org/10.1186/s12859-023-05447-1,MCL-DTI: using drug multimodal information and bi-directional cross-attention learning method for predicting drug–target interaction,2023-08-26,https://github.com/wowowoj/MCL-DTI
+173,https://doi.org/10.1186/s12859-023-05437-3,Haplotype based testing for a better understanding of the selective architecture,2023-08-26,https://github.com/xthchen/haplotest
+174,https://doi.org/10.1186/s12859-023-05429-3,Predicting weighted unobserved nodes in a regulatory network using answer set programming,2023-08-25,https://github.com/soph-lebars/MajS
+174,https://doi.org/10.1186/s12859-023-05429-3,Predicting weighted unobserved nodes in a regulatory network using answer set programming,2023-08-25,https://github.com/hyu-ub/prob_reg_net
+175,https://doi.org/10.1186/s12859-023-05444-4,Sensitivity of CNN image analysis to multifaceted measurements of neurite growth,2023-08-24,https://github.com/Mullans/NeuriteNet
+177,https://doi.org/10.1186/s12859-023-05432-8,iDESC: identifying differential expression in single-cell RNA sequencing data with multiple subjects,2023-08-22,https://github.com/yl883/iDESC
+179,https://doi.org/10.1186/s12859-023-05419-5,RepBox: a toolbox for the identification of repetitive elements,2023-08-22,https://github.com/shelvasha/RepBox
+180,https://doi.org/10.1186/s12859-023-05436-4,"BioLegato: a programmable, object-oriented graphic user interface",2023-08-21,https://github.com/bfristensky/BioLegato
+181,https://doi.org/10.1186/s12859-023-05446-2,An adaptive multi-modal hybrid model for classifying thyroid nodules by combining ultrasound and infrared thermal images,2023-08-19,https://github.com/wuliZN2020/AmmH
+183,https://doi.org/10.1186/s12859-023-05330-z,BaPreS: a software tool for predicting bacteriocins using an optimal set of features,2023-08-17,https://github.com/cuizhensdws/RWMSCNN
+183,https://doi.org/10.1186/s12859-023-05330-z,BaPreS: a software tool for predicting bacteriocins using an optimal set of features,2023-08-17,https://github.com/suraiya14/BaPreS
+183,https://doi.org/10.1186/s12859-023-05330-z,BaPreS: a software tool for predicting bacteriocins using an optimal set of features,2023-08-17,https://github.com/suraiya14/ML_bacteriocins
+184,https://doi.org/10.1186/s12859-023-05433-7,ARCA: the interactive database for arbovirus reported cases in the Americas,2023-08-16,https://github.com/salemilab/ARCA
+185,https://doi.org/10.1186/s12859-023-05424-8,An information-theoretic approach to single cell sequencing analysis,2023-08-12,https://github.com/mjcasy/scEC
+185,https://doi.org/10.1186/s12859-023-05424-8,An information-theoretic approach to single cell sequencing analysis,2023-08-12,https://github.com/LuyiTian/sc_mixology
+186,https://doi.org/10.1186/s12859-023-05428-4,estimateR: an R package to estimate and monitor the effective reproductive number,2023-08-11,https://github.com/epiforecasts/covid-rt-estimates
+186,https://doi.org/10.1186/s12859-023-05428-4,estimateR: an R package to estimate and monitor the effective reproductive number,2023-08-11,https://github.com/jscire/estimateR_paper_code
+186,https://doi.org/10.1186/s12859-023-05428-4,estimateR: an R package to estimate and monitor the effective reproductive number,2023-08-11,https://github.com/covid-19-Re/estimateR
+187,https://doi.org/10.1186/s12859-023-05438-2,ggcoverage: an R package to visualize and annotate genome coverage for various NGS data,2023-08-09,https://github.com/showteeth/ggcoverage
+188,https://doi.org/10.1186/s12859-023-05434-6,Boosting variant-calling performance with multi-platform sequencing data using Clair3-MP,2023-08-03,https://github.com/Illumina/hap.py
+188,https://doi.org/10.1186/s12859-023-05434-6,Boosting variant-calling performance with multi-platform sequencing data using Clair3-MP,2023-08-03,https://github.com/HKU-BAL/Clair3-MP
+190,https://doi.org/10.1186/s12859-023-05251-x,Automatic disease prediction from human gut metagenomic data using boosting GraphSAGE,2023-03-31,https://github.com/SchlossLab
+190,https://doi.org/10.1186/s12859-023-05251-x,Automatic disease prediction from human gut metagenomic data using boosting GraphSAGE,2023-03-31,https://github.com/ChiehLo/MetaNN
+191,https://doi.org/10.1186/s12859-023-05425-7,Molecular complex detection in protein interaction networks through reinforcement learning,2023-08-02,https://github.com/marcottelab/RL_complex_detection
+191,https://doi.org/10.1186/s12859-023-05425-7,Molecular complex detection in protein interaction networks through reinforcement learning,2023-08-02,https://github.com/marcottelab/RL_humap_prediction
+192,https://doi.org/10.1186/s12859-023-05426-6,VariantscanR: an R-package as a clinical tool for variant filtering of known phenotype-associated variants in domestic animals,2023-08-01,https://github.com/FrederiqueBoeykens/variantscanR
+194,https://doi.org/10.1186/s12859-023-05420-y,ROGUE: an R Shiny app for RNA sequencing analysis and biomarker discovery,2023-07-29,https://github.com/afarrel/ROGUE
+194,https://doi.org/10.1186/s12859-023-05420-y,ROGUE: an R Shiny app for RNA sequencing analysis and biomarker discovery,2023-07-29,https://github.com/jkrijthe/Rtsne
+195,https://doi.org/10.1186/s12859-023-05417-7,Evaluating imputation methods for single-cell RNA-seq data,2023-07-28,https://github.com/Joye9285/Imputation-benchmark
+197,https://doi.org/10.1186/s12859-023-05422-w,"OGRE: calculate, visualize, and analyze overlap between genomic input regions and public annotations",2023-07-26,https://github.com/joshuaulrich/microbenchmark
+197,https://doi.org/10.1186/s12859-023-05422-w,"OGRE: calculate, visualize, and analyze overlap between genomic input regions and public annotations",2023-07-26,https://github.com/rstudio/DT
+197,https://doi.org/10.1186/s12859-023-05422-w,"OGRE: calculate, visualize, and analyze overlap between genomic input regions and public annotations",2023-07-26,https://github.com/svenbioinf/OGRE
+198,https://doi.org/10.1186/s12859-023-05423-9,The metabolomics workbench file status website: a metadata repository promoting FAIR principles of metabolomics data,2023-07-24,https://github.com/MoseleyBioinformaticsLab/mwFileStatusWebsite
+198,https://doi.org/10.1186/s12859-023-05423-9,The metabolomics workbench file status website: a metadata repository promoting FAIR principles of metabolomics data,2023-07-24,https://github.com/MoseleyBioinformaticsLab/mwtab
+201,https://doi.org/10.1186/s12859-023-05405-x,Causal discovery approach with reinforcement learning for risk factors of type II diabetes mellitus,2023-07-21,https://github.com/JGcuzme/RL
+202,https://doi.org/10.1186/s12859-023-05410-0,xenoGI 3: using the DTLOR model to reconstruct the evolution of gene families in clades of microbes,2023-07-21,https://github.com/ecbush/xenoGI
+203,https://doi.org/10.1186/s12859-023-05406-w,Starvar: symptom-based tool for automatic ranking of variants using evidence from literature and genomes,2023-07-21,https://github.com/bio-ontology-research-group/STARVar
+204,https://doi.org/10.1186/s12859-023-05413-x,Enhancing drug property prediction with dual-channel transfer learning based on molecular fragment,2023-07-21,https://github.com/deepchem/deepchem
+204,https://doi.org/10.1186/s12859-023-05413-x,Enhancing drug property prediction with dual-channel transfer learning based on molecular fragment,2023-07-21,https://github.com/Ruowu9944/FREL
+205,https://doi.org/10.1186/s12859-023-05397-8,A pipeline for the retrieval and extraction of domain-specific information with application to COVID-19 immune signatures,2023-07-20,https://github.com/mcdougallab/pipeline
+206,https://doi.org/10.1186/s12859-023-05414-w,CamPype: an open-source workflow for automated bacterial whole-genome sequencing analysis focused on Campylobacter,2023-07-20,https://github.com/tseemann/mlst
+206,https://doi.org/10.1186/s12859-023-05414-w,CamPype: an open-source workflow for automated bacterial whole-genome sequencing analysis focused on Campylobacter,2023-07-20,https://github.com/JoseBarbero/CamPype
+206,https://doi.org/10.1186/s12859-023-05414-w,CamPype: an open-source workflow for automated bacterial whole-genome sequencing analysis focused on Campylobacter,2023-07-20,https://github.com/sanger-pathogens/Roary
+206,https://doi.org/10.1186/s12859-023-05414-w,CamPype: an open-source workflow for automated bacterial whole-genome sequencing analysis focused on Campylobacter,2023-07-20,https://github.com/tseemann/abricate
+206,https://doi.org/10.1186/s12859-023-05414-w,CamPype: an open-source workflow for automated bacterial whole-genome sequencing analysis focused on Campylobacter,2023-07-20,https://github.com/tseemann/snippy
+207,https://doi.org/10.1186/s12859-023-05411-z,Leveraging pre-trained language models for mining microbiome-disease relationships,2023-07-19,https://github.com/doccano/doccano
+208,https://doi.org/10.1186/s12859-023-05412-y,ForestSubtype: a cancer subtype identifying approach based on high-dimensional genomic data and a parallel random forest,2023-07-19,https://github.com/lffyd/ForestSubtype
+209,https://doi.org/10.1186/s12859-023-05385-y,MitoHiFi: a python pipeline for mitochondrial genome assembly from PacBio high fidelity reads,2023-07-18,https://github.com/marcelauliano
+210,https://doi.org/10.1186/s12859-023-05407-9,SNPeffect 5.0: large-scale structural phenotyping of protein coding variants extracted from next-generation sequencing data using AlphaFold models,2023-07-18,https://github.com/vibbits/snpeffect
+211,https://doi.org/10.1186/s12859-023-05390-1,IS-Seq: a bioinformatics pipeline for integration sites analysis with comprehensive abundance quantification methods,2023-07-18,https://github.com/aiminy/IS-Seq-python3
+211,https://doi.org/10.1186/s12859-023-05390-1,IS-Seq: a bioinformatics pipeline for integration sites analysis with comprehensive abundance quantification methods,2023-07-18,https://github.com/BushmanLab/intSiteCaller
+213,https://doi.org/10.1186/s12859-023-05395-w,MTG-Link: leveraging barcode information from linked-reads to assemble specific loci,2023-07-14,https://github.com/anne-gcd/MTG-Link
+214,https://doi.org/10.1186/s12859-023-05403-z,VolumePeeler: a novel FIJI plugin for geometric tissue peeling to improve visualization and quantification of 3D image stacks,2023-07-12,https://github.com/busmangit/volume-peeler
+215,https://doi.org/10.1186/s12859-023-05404-y,Improvement of variables interpretability in kernel PCA,2023-07-12,https://github.com/jundongl/scikit-feature
+216,https://doi.org/10.1186/s12859-023-05382-1,GeCoNet-Tool: a software package for gene co-expression network construction and analysis,2023-07-11,https://github.com/KSUNetSE/GeCoNet-Tool
+218,https://doi.org/10.1186/s12859-023-05402-0,Supervised topological data analysis for MALDI mass spectrometry imaging applications,2023-07-10,https://github.com/klailag/SupervisedTDAMethodForMALDI
+219,https://doi.org/10.1186/s12859-023-05387-w,VGAEDTI: drug-target interaction prediction based on variational inference and graph autoencoder,2023-07-06,https://github.com/FengYinFei/VGAEDTI
+220,https://doi.org/10.1186/s12859-023-05376-z,AMEND: active module identification using experimental data and network diffusion,2023-07-06,https://github.com/samboyd0/AMEND
+221,https://doi.org/10.1186/s12859-023-05401-1,MOKPE: drug–target interaction prediction via manifold optimization based kernel preserving embedding,2023-07-05,https://github.com/ocbinatli/mokpe
+225,https://doi.org/10.1186/s12859-023-05373-2,Comparing methods for drug–gene interaction prediction on the biomedical literature knowledge graph: performance versus explainability,2023-06-30,https://github.com/iit-Demokritos/target-id-mapping
+225,https://doi.org/10.1186/s12859-023-05373-2,Comparing methods for drug–gene interaction prediction on the biomedical literature knowledge graph: performance versus explainability,2023-06-30,https://github.com/iit-Demokritos/drug_id_mapping
+225,https://doi.org/10.1186/s12859-023-05373-2,Comparing methods for drug–gene interaction prediction on the biomedical literature knowledge graph: performance versus explainability,2023-06-30,https://github.com/fotais/drug-gene-interactions
+226,https://doi.org/10.1186/s12859-023-05394-x,Neuroimaging feature extraction using a neural network classifier for imaging genetics,2023-06-30,https://github.com/CedricBeaulac/Neuroimaging_genetics
+230,https://doi.org/10.1186/s12859-023-05301-4,topr: an R package for viewing and annotating genetic association results,2023-06-28,https://github.com/totajuliusd/topr
+231,https://doi.org/10.1186/s12859-023-05392-z,Cancer survival prediction by learning comprehensive deep feature representation for multiple types of genetic data,2023-06-28,https://github.com/githyr/ComprehensiveSurvival
+232,https://doi.org/10.1186/s12859-023-05393-y,PATH-SURVEYOR: pathway level survival enquiry for immuno-oncology and drug repurposing,2023-06-28,https://github.com/shawlab-moffitt/PATH-SURVEYOR_Manuscript_Supplementary
+232,https://doi.org/10.1186/s12859-023-05393-y,PATH-SURVEYOR: pathway level survival enquiry for immuno-oncology and drug repurposing,2023-06-28,https://github.com/shawlab-moffitt/PATH-SURVEYOR-Suite
+233,https://doi.org/10.1186/s12859-023-05372-3,Advances in monolingual and crosslingual automatic disability annotation in Spanish,2023-06-26,https://github.com/gildofabregat/DIANN-IBEREVAL-2018
+235,https://doi.org/10.1186/s12859-023-05389-8,Fast and accurate genome-wide predictions and structural modeling of protein–protein interactions using Galaxy,2023-06-23,https://github.com/guerler/springsuite
+237,https://doi.org/10.1186/s12859-023-05378-x,DeepASDPred: a CNN-LSTM-based deep learning method for Autism spectrum disorders risk RNA identification,2023-06-22,https://github.com/Onebear-X/DeepASDPred
+238,https://doi.org/10.1186/s12859-023-05388-9,BeEM: fast and faithful conversion of mmCIF format structure files to PDB format,2023-06-20,https://github.com/PDB-REDO/cif-tools
+238,https://doi.org/10.1186/s12859-023-05388-9,BeEM: fast and faithful conversion of mmCIF format structure files to PDB format,2023-06-20,https://github.com/kad-ecoli/BeEM
+239,https://doi.org/10.1186/s12859-023-05346-5,A MATLAB-based app to improve LC–MS/MS data analysis for N-linked glycan peak identification,2023-06-17,https://github.com/ZaylaSchaeffer/GlyKAn-AZ-application
+242,https://doi.org/10.1186/s12859-023-05349-2,The Poisson distribution model fits UMI-based single-cell RNA-sequencing data,2023-06-17,https://github.com/siyao-liu/MultiK
+244,https://doi.org/10.1186/s12859-023-05230-2,WormTensor: a clustering method for time-series whole-brain activity data from C. elegans,2023-06-16,https://github.com/rikenbit/WormTimeSeries
+246,https://doi.org/10.1186/s12859-023-05355-4,eSPRESSO: topological clustering of single-cell transcriptomics data to reveal informative genes for spatio–temporal architectures of cells,2023-06-15,https://github.com/tmorikuicr/espresso
+249,https://doi.org/10.1186/s12859-023-05367-0,RegCloser: a robust regression approach to closing genome gaps,2023-06-13,https://github.com/csh3/RegCloser
+250,https://doi.org/10.1186/s12859-023-05380-3,SBMLKinetics: a tool for annotation-independent classification of reaction kinetics for SBML models,2023-06-13,https://github.com/SunnyXu/SBMLKinetics
+251,https://doi.org/10.1186/s12859-023-05366-1,CastNet: a systems-level sequence evolution simulator,2023-06-12,https://github.com/carlosj-rr/CastNet
+252,https://doi.org/10.1186/s12859-023-05329-6,"kboolnet: a toolkit for the verification, validation, and visualization of reaction-contingency (rxncon) models",2023-06-12,https://github.com/Kufalab-UCSD/kboolnet
+253,https://doi.org/10.1186/s12859-023-05369-y,Deep learning-based classification model for GPR151 activator activity prediction,2023-06-09,https://github.com/samoturk/mol2vec
+253,https://doi.org/10.1186/s12859-023-05369-y,Deep learning-based classification model for GPR151 activator activity prediction,2023-06-09,https://github.com/xuhuangchao/gpr151_activity_prediction
+254,https://doi.org/10.1186/s12859-023-05370-5,3DVizSNP: a tool for rapidly visualizing missense mutations identified in high throughput experiments in iCn3D,2023-06-09,https://github.com/CBIIT-CGBB/3DVizSNP
+255,https://doi.org/10.1186/s12859-023-05363-4,Detecting patterns of accessory genome coevolution in Staphylococcus aureus using data from thousands of genomes,2023-06-09,https://github.com/rohansmehta/DeCoTUR_manuscript_code
+255,https://doi.org/10.1186/s12859-023-05363-4,Detecting patterns of accessory genome coevolution in Staphylococcus aureus using data from thousands of genomes,2023-06-09,https://github.com/weissmanlab/decotur
+256,https://doi.org/10.1186/s12859-023-05375-0,TEMPROT: protein function annotation using transformers embeddings and homology search,2023-06-08,https://github.com/gabrielbianchin/TEMPROT
+258,https://doi.org/10.1186/s12859-023-05340-x,Rescuing biologically relevant consensus regions across replicated samples,2023-06-07,https://github.com/nboley/idr
+258,https://doi.org/10.1186/s12859-023-05340-x,Rescuing biologically relevant consensus regions across replicated samples,2023-06-07,https://github.com/Genometric/MSPC
+259,https://doi.org/10.1186/s12859-023-05360-7,Tidyproteomics: an open-source R package and data object for quantitative proteomics post analysis and visualization,2023-06-06,https://github.com/jeffsocal/tidyproteomics
+259,https://doi.org/10.1186/s12859-023-05360-7,Tidyproteomics: an open-source R package and data object for quantitative proteomics post analysis and visualization,2023-06-06,https://github.com/ejmackrell/tidyproteomics-interactive
+261,https://doi.org/10.1186/s12859-023-05320-1,RegiSTORM: channel registration for multi-color stochastic optical reconstruction microscopy,2023-06-05,https://github.com/oystein676/RegiSTORM
+262,https://doi.org/10.1186/s12859-023-05345-6,Biotite: new tools for a versatile Python bioinformatics library,2023-06-05,https://github.com/biotite-dev/
+264,https://doi.org/10.1186/s12859-023-05368-z,Association filtering and generative adversarial networks for predicting lncRNA-associated disease,2023-06-05,https://github.com/ZhonghuaYNNU/LDAF_GAN
+266,https://doi.org/10.1186/s12859-023-05364-3,LAPIS is a fast web API for massive open virus sequencing data,2023-06-05,https://github.com/GenSpectrum/LAPIS
+267,https://doi.org/10.1186/s12859-023-05374-1,Beyond the state of the art of reverse vaccinology: predicting vaccine efficacy with the universal immune system simulator for influenza,2023-06-05,https://github.com/COMBINE-Group/Beyond-the-state-of-the-art-of-reverse-vaccinology-predicting-vaccine-efficacy-with-UISS-FLU
+268,https://doi.org/10.1186/s12859-023-05284-2,Nfinder: automatic inference of cell neighborhood in 2D and 3D using nuclear markers,2023-06-03,https://github.com/santi-rodriguez/nfinder
+270,https://doi.org/10.1186/s12859-023-05269-1,A mixed-effects stochastic model reveals clonal dominance in gene therapy safety studies,2023-06-02,https://github.com/delcore-luca/ClonalDominance
+271,https://doi.org/10.1186/s12859-023-05350-9,An analysis of entity normalization evaluation biases in specialized domains,2023-06-02,https://github.com/ArnaudFerre/data-norm
+271,https://doi.org/10.1186/s12859-023-05350-9,An analysis of entity normalization evaluation biases in specialized domains,2023-06-02,https://github.com/ArnaudFerre/C-Norm_PostLab
+271,https://doi.org/10.1186/s12859-023-05350-9,An analysis of entity normalization evaluation biases in specialized domains,2023-06-02,https://github.com/ncbi-nlp/Ab3P
+271,https://doi.org/10.1186/s12859-023-05350-9,An analysis of entity normalization evaluation biases in specialized domains,2023-06-02,https://github.com/dmis-lab/BioSyn
+272,https://doi.org/10.1186/s12859-023-05351-8,Comut-viz: efficiently creating and browsing comutation plots online,2023-06-01,https://github.com/frlender/comut-viz
+277,https://doi.org/10.1186/s12859-023-05292-2,Accelerating genomic workflows using NVIDIA Parabricks,2023-05-31,https://github.com/kyleoconnell/gpu-acclerated-genomics
+278,https://doi.org/10.1186/s12859-023-05352-7,CircSSNN: circRNA-binding site prediction via sequence self-attention neural networks with pre-normalization,2023-05-30,https://github.com/cc646201081/CircSSNN
+279,https://doi.org/10.1186/s12859-023-05333-w,CRISPR-GRANT: a cross-platform graphical analysis tool for high-throughput CRISPR-based genome editing evaluation,2023-05-30,https://github.com/Vindaar/ggplotnim
+279,https://doi.org/10.1186/s12859-023-05333-w,CRISPR-GRANT: a cross-platform graphical analysis tool for high-throughput CRISPR-based genome editing evaluation,2023-05-30,https://github.com/fuhuancheng/CRISPR-GRANT
+280,https://doi.org/10.1186/s12859-023-05356-3,Genofunc: genome annotation and identification of genome features for automated pipelining analysis of virus whole genome sequences,2023-05-30,https://github.com/xiaoyu518/genofunc
+281,https://doi.org/10.1186/s12859-023-05339-4,scSemiAAE: a semi-supervised clustering model for single-cell RNA-seq data,2023-05-26,https://github.com/WHang98/scSemiAAE
+283,https://doi.org/10.1186/s12859-023-05343-8,Drug mechanism enrichment analysis improves prioritization of therapeutics for repurposing,2023-05-24,https://github.com/BelindaBGarana/DMEA
+284,https://doi.org/10.1186/s12859-023-05342-9,Empowering biologists to decode omics data: the Genekitr R package and web server,2023-05-23,https://github.com/GangLiLab/genekitr
+285,https://doi.org/10.1186/s12859-023-05324-x,SVcnn: an accurate deep learning-based method for detecting structural variation based on long-read data,2023-05-23,https://github.com/nwpuzhengyan/SVcnn
+287,https://doi.org/10.1186/s12859-023-05319-8,Identifying driver pathways based on a parameter-free model and a partheno-genetic algorithm,2023-05-23,https://github.com/gxnubioinfo/CPGA-SMCMN
+289,https://doi.org/10.1186/s12859-023-05332-x,GraphSNP: an interactive distance viewer for investigating outbreaks and transmission networks using a graph approach,2023-05-19,https://github.com/nalarbp/graphsnp
+289,https://doi.org/10.1186/s12859-023-05332-x,GraphSNP: an interactive distance viewer for investigating outbreaks and transmission networks using a graph approach,2023-05-19,https://github.com/ant-design/ant-design
+289,https://doi.org/10.1186/s12859-023-05332-x,GraphSNP: an interactive distance viewer for investigating outbreaks and transmission networks using a graph approach,2023-05-19,https://github.com/facebook/react
+289,https://doi.org/10.1186/s12859-023-05332-x,GraphSNP: an interactive distance viewer for investigating outbreaks and transmission networks using a graph approach,2023-05-19,https://github.com/tseemann/cgmlst-dists
+289,https://doi.org/10.1186/s12859-023-05332-x,GraphSNP: an interactive distance viewer for investigating outbreaks and transmission networks using a graph approach,2023-05-19,https://github.com/dranidis/kruskal-mst
+290,https://doi.org/10.1186/s12859-023-05341-w,DePolymerase Predictor (DePP): a machine learning tool for the targeted identification of phage depolymerases,2023-05-19,https://github.com/DamianJM/Depolymerase-Predictor
+291,https://doi.org/10.1186/s12859-023-05337-6,On the correspondence between the transcriptomic response of a compound and its effects on its targets,2023-05-19,https://github.com/enveda/transcriptomic-target-correlation
+292,https://doi.org/10.1186/s12859-023-05338-5,Accuracy of a machine learning method based on structural and locational information from AlphaFold2 for predicting the pathogenicity of TARDBP and FUS gene variants in ALS,2023-05-19,https://github.com/yuya-hatano/MOVA
+293,https://doi.org/10.1186/s12859-023-05331-y,CircPrime: a web-based platform for design of specific circular RNA primers,2023-05-19,https://github.com/pallets/flask
+294,https://doi.org/10.1186/s12859-023-05335-8,"HISS: Snakemake-based workflows for performing SMRT-RenSeq assembly, AgRenSeq and dRenSeq for the discovery of novel plant disease resistance genes",2023-05-17,https://github.com/SwiftSeal/HISS
+296,https://doi.org/10.1186/s12859-023-05317-w,Drug repurposing and prediction of multiple interaction types via graph embedding,2023-05-17,https://github.com/aditya-grover/node2vec
+296,https://doi.org/10.1186/s12859-023-05317-w,Drug repurposing and prediction of multiple interaction types via graph embedding,2023-05-17,https://github.com/elmira-amiri/DT2VecPlus
+297,https://doi.org/10.1186/s12859-023-05334-9,SeqWiz: a modularized toolkit for next-generation protein sequence database management and analysis,2023-05-17,https://github.com/fountao/protwiz
+298,https://doi.org/10.1186/s12859-023-05327-8,CysPresso: a classification model utilizing deep learning protein representations to predict recombinant expression of cysteine-dense peptides,2023-05-16,https://github.com/Zebreu/cyspresso
+301,https://doi.org/10.1186/s12859-023-05294-0,Improving variant calling using population data and deep learning,2023-05-12,https://github.com/google/deepvariant
+303,https://doi.org/10.1186/s12859-023-05306-z,A statistical approach for identifying primary substrates of ZSWIM8-mediated microRNA degradation in small-RNA sequencing data,2023-05-12,https://github.com/wyppeter/BBUM-TDMD_2022
+303,https://doi.org/10.1186/s12859-023-05306-z,A statistical approach for identifying primary substrates of ZSWIM8-mediated microRNA degradation in small-RNA sequencing data,2023-05-12,https://github.com/wyppeter/bbum
+309,https://doi.org/10.1186/s12859-023-05297-x,HLA-Clus: HLA class I clustering based on 3D structure,2023-05-09,https://github.com/yshen25/HLA_clustering
+309,https://doi.org/10.1186/s12859-023-05297-x,HLA-Clus: HLA class I clustering based on 3D structure,2023-05-09,https://github.com/yshen25/HLA-Clus
+310,https://doi.org/10.1186/s12859-023-05309-w,GKLOMLI: a link prediction model for inferring miRNA–lncRNA interactions by using Gaussian kernel-based method on network profile and linear optimization algorithm,2023-05-08,https://github.com/leon-lg-wong/GKLOMLI
+311,https://doi.org/10.1186/s12859-023-05304-1,Model selection and robust inference of mutational signatures using Negative Binomial non-negative matrix factorization,2023-05-08,https://github.com/MartaPelizzola/SigMoS
+316,https://doi.org/10.1186/s12859-023-05310-3,AttSec: protein secondary structure prediction by capturing local patterns from attention map,2023-05-04,https://github.com/youjin-DDAI/AttSec
+317,https://doi.org/10.1186/s12859-023-05252-w,MBECS: Microbiome Batch Effects Correction Suite,2023-05-03,https://github.com/rmolbrich/MBECS
+318,https://doi.org/10.1186/s12859-023-05311-2,CAGECAT: The CompArative GEne Cluster Analysis Toolbox for rapid search and visualisation of homologous gene clusters,2023-05-03,https://github.com/malanjary-wur/CAGECAT
+319,https://doi.org/10.1186/s12859-023-05305-0,ERStruct: a fast Python package for inferring the number of top principal components from whole genome sequencing data,2023-05-02,https://github.com/ecielyang/ERStruct
+320,https://doi.org/10.1186/s12859-023-05291-3,Faster and more accurate pathogenic combination predictions with VarCoPP2.0,2023-05-01,https://github.com/jeremymcrae/hpo_similarity
+320,https://doi.org/10.1186/s12859-023-05291-3,Faster and more accurate pathogenic combination predictions with VarCoPP2.0,2023-05-01,https://github.com/oligogenic/VarCoPP2.0
+320,https://doi.org/10.1186/s12859-023-05291-3,Faster and more accurate pathogenic combination predictions with VarCoPP2.0,2023-05-01,https://github.com/HAShihab/HIPred
+321,https://doi.org/10.1186/s12859-023-05282-4,A comparison of feature selection methodologies and learning algorithms in the development of a DNA methylation-based telomere length estimator,2023-05-01,https://github.com/MorganLevineLab/PC-Clocks
+321,https://doi.org/10.1186/s12859-023-05282-4,A comparison of feature selection methodologies and learning algorithms in the development of a DNA methylation-based telomere length estimator,2023-05-01,https://github.com/trevordoherty/DNA-methylation-based-Telomere-Length-estimator
+322,https://doi.org/10.1186/s12859-023-05308-x,Prediction of disease-related miRNAs by voting with multiple classifiers,2023-04-30,https://github.com/Changlong2020/ELMDA
+324,https://doi.org/10.1186/s12859-023-05307-y,Automated recognition and analysis of body bending behavior in C. elegans,2023-04-28,https://github.com/hthana/Body-Bend-Count
+325,https://doi.org/10.1186/s12859-023-05298-w,POInTbrowse: orthology prediction and synteny exploration for paleopolyploid genomes,2023-04-27,https://github.com/gconant0/POInT
+326,https://doi.org/10.1186/s12859-023-05286-0,Magicmol: a light-weighted pipeline for drug-like molecule evolution and quick chemical space exploration,2023-04-26,https://github.com/Josefjosda/Magicmol
+327,https://doi.org/10.1186/s12859-023-05289-x,ecpc: an R-package for generic co-data models for high-dimensional prediction,2023-04-26,https://github.com/Mirrelijn/ecpc
+328,https://doi.org/10.1186/s12859-023-05290-4,DGH-GO: dissecting the genetic heterogeneity of complex diseases using gene ontology,2023-04-26,https://github.com/Muh-Asif/DGH-GO
+329,https://doi.org/10.1186/s12859-023-05261-9,"Priors, population sizes, and power in genome-wide hypothesis tests",2023-04-26,https://github.com/joelbaderlab/hardprior_2023
+330,https://doi.org/10.1186/s12859-023-05273-5,moBRCA-net: a breast cancer subtype classification framework based on multi-omics attention neural networks,2023-04-26,https://github.com/cbi-bioinfo/moBRCA-net
+331,https://doi.org/10.1186/s12859-023-05272-6,meth-SemiCancer: a cancer subtype classification framework via semi-supervised learning utilizing DNA methylation profiles,2023-04-26,https://github.com/cbi-bioinfo/meth-SemiCancer
+332,https://doi.org/10.1186/s12859-023-05296-y,CRISPR-Cas-Docker: web-based in silico docking and machine learning-based classification of crRNAs with Cas proteins,2023-04-25,https://github.com/matplotlib/matplotlib
+332,https://doi.org/10.1186/s12859-023-05296-y,CRISPR-Cas-Docker: web-based in silico docking and machine learning-based classification of crRNAs with Cas proteins,2023-04-25,https://github.com/hshimlab/CRISPR-Cas-Docker
+332,https://doi.org/10.1186/s12859-023-05296-y,CRISPR-Cas-Docker: web-based in silico docking and machine learning-based classification of crRNAs with Cas proteins,2023-04-25,https://github.com/pandas-dev/pandas
+332,https://doi.org/10.1186/s12859-023-05296-y,CRISPR-Cas-Docker: web-based in silico docking and machine learning-based classification of crRNAs with Cas proteins,2023-04-25,https://github.com/deepmind/alphafold
+332,https://doi.org/10.1186/s12859-023-05296-y,CRISPR-Cas-Docker: web-based in silico docking and machine learning-based classification of crRNAs with Cas proteins,2023-04-25,https://github.com/mwaskom/seaborn
+332,https://doi.org/10.1186/s12859-023-05296-y,CRISPR-Cas-Docker: web-based in silico docking and machine learning-based classification of crRNAs with Cas proteins,2023-04-25,https://github.com/numpy/numpy
+335,https://doi.org/10.1186/s12859-023-05288-y,Fast all versus all genotype comparison using DNA/RNA sequencing data: method and workflow,2023-04-24,https://github.com/teerjk/TimeAttackGenComp
+335,https://doi.org/10.1186/s12859-023-05288-y,Fast all versus all genotype comparison using DNA/RNA sequencing data: method and workflow,2023-04-24,https://github.com/broadinstitute/cromwell
+336,https://doi.org/10.1186/s12859-023-05253-9,A gene regulatory network inference model based on pseudo-siamese network,2023-04-21,https://github.com/cirila9/PSGRN
+337,https://doi.org/10.1186/s12859-023-05285-1,Predicting disease genes based on multi-head attention fusion,2023-04-21,https://github.com/Bio503/MHAGP
+338,https://doi.org/10.1186/s12859-023-05256-6,Dose–response prediction for in-vitro drug combination datasets: a probabilistic approach,2023-04-21,https://github.com/ltronneb/PIICM
+340,https://doi.org/10.1186/s12859-023-05258-4,"Schema Playground: a tool for authoring, extending, and using metadata schemas to improve FAIRness of biomedical data",2023-04-20,https://github.com/biothings/discovery-app
+340,https://doi.org/10.1186/s12859-023-05258-4,"Schema Playground: a tool for authoring, extending, and using metadata schemas to improve FAIRness of biomedical data",2023-04-20,https://github.com/outbreak-info/outbreak.info-resources
+340,https://doi.org/10.1186/s12859-023-05258-4,"Schema Playground: a tool for authoring, extending, and using metadata schemas to improve FAIRness of biomedical data",2023-04-20,https://github.com/schemaorg/schemaorg
+341,https://doi.org/10.1186/s12859-023-05255-7,Validation of genetic variants from NGS data using deep convolutional neural networks,2023-04-20,https://github.com/marc-vaisband/deepCNNvalid
+342,https://doi.org/10.1186/s12859-023-05293-1,Development of revised ResNet-50 for diabetic retinopathy detection,2023-04-19,https://github.com/PuristWu/Identifying-gender
+342,https://doi.org/10.1186/s12859-023-05293-1,Development of revised ResNet-50 for diabetic retinopathy detection,2023-04-19,https://github.com/HzFu/EyeQ
+344,https://doi.org/10.1186/s12859-023-05232-0,MSLP: mRNA subcellular localization predictor based on machine learning techniques,2023-03-22,https://github.com/smusleh/MSLP
+347,https://doi.org/10.1186/s12859-023-05280-6,PyAGH: a python package to fast construct kinship matrices based on different levels of omic data,2023-04-18,https://github.com/zhaow-01/PyAGH
+347,https://doi.org/10.1186/s12859-023-05280-6,PyAGH: a python package to fast construct kinship matrices based on different levels of omic data,2023-04-18,https://github.com/matthewwolak/nadiv
+347,https://doi.org/10.1186/s12859-023-05280-6,PyAGH: a python package to fast construct kinship matrices based on different levels of omic data,2023-04-18,https://github.com/pybind/pybind11
+348,https://doi.org/10.1186/s12859-023-05281-5,SynBioTools: a one-stop facility for searching and selecting synthetic biology tools,2023-04-17,https://github.com/ropensci/tidypmc
+348,https://doi.org/10.1186/s12859-023-05281-5,SynBioTools: a one-stop facility for searching and selecting synthetic biology tools,2023-04-17,https://github.com/camelot-dev/camelot
+348,https://doi.org/10.1186/s12859-023-05281-5,SynBioTools: a one-stop facility for searching and selecting synthetic biology tools,2023-04-17,https://github.com/tabulapdf/tabula
+348,https://doi.org/10.1186/s12859-023-05281-5,SynBioTools: a one-stop facility for searching and selecting synthetic biology tools,2023-04-17,https://github.com/PaddlePaddle/PaddleOCR
+349,https://doi.org/10.1186/s12859-023-05275-3,Drug-target interaction prediction based on spatial consistency constraint and graph convolutional autoencoder,2023-04-17,https://github.com/936773184/SDGAE
+349,https://doi.org/10.1186/s12859-023-05275-3,Drug-target interaction prediction based on spatial consistency constraint and graph convolutional autoencoder,2023-04-17,https://github.com/luoyunan/DTINet
+355,https://doi.org/10.1186/s12859-023-05270-8,"nRCFV: a new, dataset-size-independent metric to quantify compositional heterogeneity in nucleotide and amino acid datasets",2023-04-12,https://github.com/JFFleming/RCFV_Reader
+356,https://doi.org/10.1186/s12859-023-05236-w,Automatic extraction of ranked SNP-phenotype associations from text using a BERT-LSTM-based method,2023-04-12,https://github.com/mohamad-dehghani/SNPPhenA_XML
+357,https://doi.org/10.1186/s12859-023-05260-w,lifex-fiber: an open tool for myofibers generation in cardiac computational models,2023-04-12,https://github.com/KIT-IBT/LDRB_Fibers
+357,https://doi.org/10.1186/s12859-023-05260-w,lifex-fiber: an open tool for myofibers generation in cardiac computational models,2023-04-12,https://github.com/rossisimone/beatit
+357,https://doi.org/10.1186/s12859-023-05260-w,lifex-fiber: an open tool for myofibers generation in cardiac computational models,2023-04-12,https://github.com/opencollab/arpack-ng
+357,https://doi.org/10.1186/s12859-023-05260-w,lifex-fiber: an open tool for myofibers generation in cardiac computational models,2023-04-12,https://github.com/coin-or/ADOL-C
+357,https://doi.org/10.1186/s12859-023-05260-w,lifex-fiber: an open tool for myofibers generation in cardiac computational models,2023-04-12,https://github.com/marco-fedele/vmtk
+361,https://doi.org/10.1186/s12859-023-05267-3,Genetic algorithm-based feature selection with manifold learning for cancer classification using microarray data,2023-04-08,https://github.com/Budheimer/RDRToolbox
+365,https://doi.org/10.1186/s12859-023-05169-4,PSReliP: an integrated pipeline for analysis and visualization of population structure and relatedness based on genome-wide genetic variant data,2023-04-05,https://github.com/solelena/PSReliP
+367,https://doi.org/10.1186/s12859-023-05254-8,transXpress: a Snakemake pipeline for streamlined de novo transcriptome assembly and annotation,2023-04-04,https://github.com/trinityrnaseq/trinityrnaseq
+367,https://doi.org/10.1186/s12859-023-05254-8,transXpress: a Snakemake pipeline for streamlined de novo transcriptome assembly and annotation,2023-04-04,https://github.com/transXpress/transXpress
+368,https://doi.org/10.1186/s12859-023-05246-8,ICOR: improving codon optimization with recurrent neural networks,2023-04-04,https://github.com/Lattice-Automation/icor-codon-optimization
+370,https://doi.org/10.1186/s12859-023-05247-7,A two-stage hybrid biomarker selection method based on ensemble filter and binary differential evolution incorporating binary African vultures optimization,2023-04-04,https://github.com/xwdshiwo/BioFSDatasets
+371,https://doi.org/10.1186/s12859-023-05263-7,Prediction of hot spots in protein–DNA binding interfaces based on discrete wavelet transform and wavelet packet transform,2023-04-04,https://github.com/chase2555/WTL-PDH
+373,https://doi.org/10.1186/s12859-023-05250-y,Kernelized multiview signed graph learning for single-cell RNA sequencing data,2023-04-04,https://github.com/Single-Cell-Graph-Learning/scMSGL
+374,https://doi.org/10.1186/s12859-023-05251-x,Automatic disease prediction from human gut metagenomic data using boosting GraphSAGE,2023-03-31,https://github.com/SchlossLab
+374,https://doi.org/10.1186/s12859-023-05251-x,Automatic disease prediction from human gut metagenomic data using boosting GraphSAGE,2023-03-31,https://github.com/ChiehLo/MetaNN
+377,https://doi.org/10.1186/s12859-023-05218-y,CellTrackVis: interactive browser-based visualization for analyzing cell trajectories and lineages,2023-03-29,https://github.com/scbeom/celltrackvis
+379,https://doi.org/10.1186/s12859-022-05126-7,Single-cell multi-omics integration for unpaired data by a siamese network with graph-based contrastive loss,2023-01-04,https://github.com/ajwilk/COVID_scMultiome
+379,https://doi.org/10.1186/s12859-022-05126-7,Single-cell multi-omics integration for unpaired data by a siamese network with graph-based contrastive loss,2023-01-04,https://github.com/ChaozhongLiu/MinNet
+380,https://doi.org/10.1186/s12859-023-05238-8,REDfold: accurate RNA secondary structure prediction using residual encoder-decoder network,2023-03-28,https://github.com/aky3100/REDfold
+381,https://doi.org/10.1186/s12859-023-05240-0,GVC: efficient random access compression for gene sequence variations,2023-03-28,https://github.com/sXperfect/gvc
+382,https://doi.org/10.1186/s12859-023-05214-2,CenFind: a deep-learning pipeline for efficient centriole detection in microscopy datasets,2023-03-28,https://github.com/UPGON/cenfind
+382,https://doi.org/10.1186/s12859-023-05214-2,CenFind: a deep-learning pipeline for efficient centriole detection in microscopy datasets,2023-03-28,https://github.com/maweigert/spotipy
+383,https://doi.org/10.1186/s12859-023-05243-x,cnnLSV: detecting structural variants by encoding long-read alignment information and convolutional neural network,2023-03-28,https://github.com/mhuidong/cnnLSV
+385,https://doi.org/10.1186/s12859-023-05245-9,ElasticBLAST: accelerating sequence search via cloud computing,2023-03-26,https://github.com/ncbi/blast_plus_docs
+385,https://doi.org/10.1186/s12859-023-05245-9,ElasticBLAST: accelerating sequence search via cloud computing,2023-03-26,https://github.com/ncbi/elastic-blast
+386,https://doi.org/10.1186/s12859-023-05226-y,Complete sequence verification of plasmid DNA using the Oxford Nanopore Technologies’ MinION device,2023-03-24,https://github.com/scottdbrown/bonito
+386,https://doi.org/10.1186/s12859-023-05226-y,Complete sequence verification of plasmid DNA using the Oxford Nanopore Technologies’ MinION device,2023-03-24,https://github.com/nanoporetech/bonito
+386,https://doi.org/10.1186/s12859-023-05226-y,Complete sequence verification of plasmid DNA using the Oxford Nanopore Technologies’ MinION device,2023-03-24,https://github.com/scottdbrown/minion-plasmid-consensus
+387,https://doi.org/10.1186/s12859-023-05233-z,multiWGCNA: an R package for deep mining gene co-expression networks in multi-trait expression data,2023-03-24,https://github.com/fogellab/multiWGCNA
+388,https://doi.org/10.1186/s12859-023-05231-1,EnsInfer: a simple ensemble approach to network inference outperforms any single method,2023-03-24,https://github.com/IcyFermion/network_inference_ensemble
+389,https://doi.org/10.1186/s12859-023-05152-z,Predicting miRNA-disease associations based on PPMI and attention network,2023-03-23,https://github.com/xxpaaa/PATMDA
+391,https://doi.org/10.1186/s12859-023-05237-9,Study of the error correction capability of multiple sequence alignment algorithm (MAFFT) in DNA storage,2023-03-23,https://github.com/microsoft/clustered-nanopore-reads-dataset
+392,https://doi.org/10.1186/s12859-023-05242-y,CNN-Siam: multimodal siamese CNN-based deep learning approach for drug‒drug interaction prediction,2023-03-23,https://github.com/Parsonlee/DDI
+393,https://doi.org/10.1186/s12859-023-05232-0,MSLP: mRNA subcellular localization predictor based on machine learning techniques,2023-03-22,https://github.com/smusleh/MSLP
+395,https://doi.org/10.1186/s12859-023-05211-5,Bayesian kinetic modeling for tracer-based metabolomic data,2023-03-22,https://github.com/xuzhang0131/MCMCFlux
+397,https://doi.org/10.1186/s12859-023-05234-y,Visual dynamics: a WEB application for molecular dynamics simulation using GROMACS,2023-03-22,https://github.com/LABIOQUIM/visualdynamics
+398,https://doi.org/10.1186/s12859-023-05149-8,Pickaxe: a Python library for the prediction of novel metabolic reactions,2023-03-22,https://github.com/tyo-nu/MINE-Database
+398,https://doi.org/10.1186/s12859-023-05149-8,Pickaxe: a Python library for the prediction of novel metabolic reactions,2023-03-22,https://github.com/tyo-nu/pickaxe_paper
+399,https://doi.org/10.1186/s12859-023-05227-x,PWN: enhanced random walk on a warped network for disease target prioritization,2023-03-21,https://github.com/Standigm/PWN
+402,https://doi.org/10.1186/s12859-023-05223-1,Snapshot: a package for clustering and visualizing epigenetic history during cell differentiation,2023-03-20,https://github.com/guanjue/Snapshot
+402,https://doi.org/10.1186/s12859-023-05223-1,Snapshot: a package for clustering and visualizing epigenetic history during cell differentiation,2023-03-20,https://github.com/guanjue/snapshot
+403,https://doi.org/10.1186/s12859-023-05224-0,Robust classification using average correlations as features (ACF),2023-03-20,https://github.com/HSU-HPC/ACF
+406,https://doi.org/10.1186/s12859-023-05193-4,nPoRe: n-polymer realigner for improved pileup-based variant calling,2023-03-16,https://github.com/TimD1/nPoRe
+406,https://doi.org/10.1186/s12859-023-05193-4,nPoRe: n-polymer realigner for improved pileup-based variant calling,2023-03-16,https://github.com/kishwarshafin/pepper
+406,https://doi.org/10.1186/s12859-023-05193-4,nPoRe: n-polymer realigner for improved pileup-based variant calling,2023-03-16,https://github.com/mbreese/swalign
+406,https://doi.org/10.1186/s12859-023-05193-4,nPoRe: n-polymer realigner for improved pileup-based variant calling,2023-03-16,https://github.com/timd1/npore
+416,https://doi.org/10.1186/s12859-023-05194-3,The personalized cancer network explorer (PeCaX) as a visual analytics tool to support molecular tumor boards,2023-03-08,https://github.com/KohlbacherLab/PeCaX-docker
+416,https://doi.org/10.1186/s12859-023-05194-3,The personalized cancer network explorer (PeCaX) as a visual analytics tool to support molecular tumor boards,2023-03-08,https://github.com/KohlbacherLab/BioGraphVisart
+416,https://doi.org/10.1186/s12859-023-05194-3,The personalized cancer network explorer (PeCaX) as a visual analytics tool to support molecular tumor boards,2023-03-08,https://github.com/KohlbacherLab/sbml4j
+418,https://doi.org/10.1186/s12859-023-05202-6,Propensity scores as a novel method to guide sample allocation and minimize batch effects during the design of high throughput experiments,2023-03-07,https://github.com/carryp/PS-Batch-Effect
+420,https://doi.org/10.1186/s12859-022-05047-5,Gene regulation network inference using k-nearest neighbor-based mutual information estimation: revisiting an old DREAM,2023-03-06,https://github.com/tschaffter/genenetweaver
+420,https://doi.org/10.1186/s12859-022-05047-5,Gene regulation network inference using k-nearest neighbor-based mutual information estimation: revisiting an old DREAM,2023-03-06,https://github.com/XiaoLabJHU/GRN_Inference
+421,https://doi.org/10.1186/s12859-023-05213-3,scEvoNet: a gradient boosting-based method for prediction of cell state evolution,2023-03-06,https://github.com/monsoro/scEvoNet
+422,https://doi.org/10.1186/s12859-023-05205-3,coda4microbiome: compositional data analysis for microbiome cross-sectional and longitudinal studies,2023-03-06,https://github.com/caporaso-lab/longitudinal-notebooks
+424,https://doi.org/10.1186/s12859-023-05216-0,INSnet: a method for detecting insertions based on deep learning network,2023-03-06,https://github.com/eioyuou/INSnet
+425,https://doi.org/10.1186/s12859-023-05184-5,RGT: a toolbox for the integrative analysis of high throughput regulatory genomics data,2023-03-06,https://github.com/CostaLab/reg-gen
+426,https://doi.org/10.1186/s12859-023-05208-0,kegg_pull: a software package for the RESTful access and pulling from the Kyoto Encyclopedia of Gene and Genomes,2023-03-04,https://github.com/FlyPythons/KEGGTools
+426,https://doi.org/10.1186/s12859-023-05208-0,kegg_pull: a software package for the RESTful access and pulling from the Kyoto Encyclopedia of Gene and Genomes,2023-03-04,https://github.com/mentatpsi/KEGG-Crawler
+426,https://doi.org/10.1186/s12859-023-05208-0,kegg_pull: a software package for the RESTful access and pulling from the Kyoto Encyclopedia of Gene and Genomes,2023-03-04,https://github.com/MoseleyBioinformaticsLab/kegg_pull
+427,https://doi.org/10.1186/s12859-023-05200-8,dbGaPCheckup: pre-submission checks of dbGaP-formatted subject phenotype files,2023-03-03,https://github.com/ncbi/gaptools
+427,https://doi.org/10.1186/s12859-023-05200-8,dbGaPCheckup: pre-submission checks of dbGaP-formatted subject phenotype files,2023-03-03,https://github.com/lwheinsberg/dbGaPCheckup
+432,https://doi.org/10.1186/s12859-023-05186-3,DeltaMSI: artificial intelligence-based modeling of microsatellite instability scoring on next-generation sequencing data,2023-03-01,https://github.com/RADar-AZDelta/DeltaMSI
+434,https://doi.org/10.1186/s12859-023-05201-7,Sensbio: an online server for biosensor design,2023-02-28,https://github.com/jonathan-tellechea/sensbio
+434,https://doi.org/10.1186/s12859-023-05201-7,Sensbio: an online server for biosensor design,2023-02-28,https://github.com/pablocarb/biosensor_predictor
+435,https://doi.org/10.1186/s12859-022-05112-z,Reconstructing B cell lineage trees with minimum spanning tree and genotype abundances,2023-02-27,https://github.com/julibinho/ClonalTree
+435,https://doi.org/10.1186/s12859-022-05112-z,Reconstructing B cell lineage trees with minimum spanning tree and genotype abundances,2023-02-27,https://github.com/matsengrp/GCtree
+436,https://doi.org/10.1186/s12859-023-05190-7,SALON ontology for the formal description of sequence alignments,2023-02-27,https://github.com/benhid/SALON
+437,https://doi.org/10.1186/s12859-023-05191-6,ncDENSE: a novel computational method based on a deep learning framework for non-coding RNAs family prediction,2023-02-27,https://github.com/ck-fighting/ncDENSE
+439,https://doi.org/10.1186/s12859-023-05176-5,PredAOT: a computational framework for prediction of acute oral toxicity based on multiple random forest models,2023-02-24,https://github.com/CSB-L/PredAOT
+443,https://doi.org/10.1186/s12859-023-05173-8,ITDetect: a method to detect internal tandem duplication of FMS-like tyrosine kinase (FLT3) from next-generation sequencing data with high sensitivity and clinical application,2023-02-23,https://github.com/cpmsnuh/itdetect
+444,https://doi.org/10.1186/s12859-023-05177-4,Latent dirichlet allocation for double clustering (LDA-DC): discovering patients phenotypes and cell populations within a single Bayesian framework,2023-02-23,https://github.com/ElieElHachem/LDADC
+444,https://doi.org/10.1186/s12859-023-05177-4,Latent dirichlet allocation for double clustering (LDA-DC): discovering patients phenotypes and cell populations within a single Bayesian framework,2023-02-23,https://github.com/prubbens/PhenoGMM_CD
+445,https://doi.org/10.1186/s12859-023-05187-2,"PriPath: identifying dysregulated pathways from differential gene expression via grouping, scoring, and modeling with an embedded feature selection approach",2023-02-23,https://github.com/malikyousef/PriPath
+446,https://doi.org/10.1186/s12859-023-05178-3,Normalized L3-based link prediction in protein–protein interaction networks,2023-02-22,https://github.com/andy897221/BMC_PPI_L3N
+447,https://doi.org/10.1186/s12859-023-05174-7,LuxHMM: DNA methylation analysis with genome segmentation via hidden Markov model,2023-02-22,https://github.com/malonzm1/LuxHMM
+449,https://doi.org/10.1186/s12859-023-05182-7,Deafness gene screening based on a multilevel cascaded BPNN model,2023-02-20,https://github.com/Cqerliu/Cascaded-BPNN-Model
+450,https://doi.org/10.1186/s12859-023-05179-2,A robust and accurate single-cell data trajectory inference method using ensemble pseudotime,2023-02-20,https://github.com/dynverse/dynplot
+450,https://doi.org/10.1186/s12859-023-05179-2,A robust and accurate single-cell data trajectory inference method using ensemble pseudotime,2023-02-20,https://github.com/zji90/TSCAN
+452,https://doi.org/10.1186/s12859-023-05144-z,Pathogen detection in RNA-seq data with Pathonoia,2023-02-17,https://github.com/kepsi/Pathonoia
+456,https://doi.org/10.1186/s12859-023-05154-x,ConanVarvar: a versatile tool for the detection of large syndromic copy number variation from whole-genome sequencing data,2023-02-15,https://github.com/VCCRI/ConanVarvar
+460,https://doi.org/10.1186/s12859-023-05166-7,A fair experimental comparison of neural network architectures for latent representations of multi-omics for drug response prediction,2023-02-14,https://github.com/DMCB-GIST/Super.FELT
+460,https://doi.org/10.1186/s12859-023-05166-7,A fair experimental comparison of neural network architectures for latent representations of multi-omics for drug response prediction,2023-02-14,https://github.com/DMCB-GIST/MOMA
+460,https://doi.org/10.1186/s12859-023-05166-7,A fair experimental comparison of neural network architectures for latent representations of multi-omics for drug response prediction,2023-02-14,https://github.com/adambielski/siamese-triplet
+460,https://doi.org/10.1186/s12859-023-05166-7,A fair experimental comparison of neural network architectures for latent representations of multi-omics for drug response prediction,2023-02-14,https://github.com/hosseinshn/MOLI
+460,https://doi.org/10.1186/s12859-023-05166-7,A fair experimental comparison of neural network architectures for latent representations of multi-omics for drug response prediction,2023-02-14,https://github.com/kramerlab/Multi-Omics_analysis
+460,https://doi.org/10.1186/s12859-023-05166-7,A fair experimental comparison of neural network architectures for latent representations of multi-omics for drug response prediction,2023-02-14,https://github.com/zhangxiaoyu11/OmiEmbed
+462,https://doi.org/10.1186/s12859-023-05141-2,Model performance and interpretability of semi-supervised generative adversarial networks to predict oncogenic variants with unlabeled data,2023-02-09,https://github.com/WGLab/SGAN
+465,https://doi.org/10.1186/s12859-023-05164-9,pLMSNOSite: an ensemble-based approach for predicting protein S-nitrosylation sites by integrating supervised word embedding and embedding from pre-trained protein language model,2023-02-08,https://github.com/KCLabMTU/pLMSNOSite
+473,https://doi.org/10.1186/s12859-023-05158-7,GACNNMDA: a computational model for predicting potential human microbe-drug associations based on graph attention network and CNN-based classifier,2023-02-02,https://github.com/tyqGitHub/TYQ
+474,https://doi.org/10.1186/s12859-023-05157-8,PP-DDP: a privacy-preserving outsourcing framework for solving the double digest problem,2023-01-31,https://github.com/ronghaoZHI/PPQIGA
+476,https://doi.org/10.1186/s12859-023-05155-w,GENTLE: a novel bioinformatics tool for generating features and building classifiers from T cell repertoire cancer data,2023-01-30,https://github.com/dhiego22/gentle
+477,https://doi.org/10.1186/s12859-023-05151-0,DeepSelectNet: deep neural network based selective sequencing for oxford nanopore sequencing,2023-01-28,https://github.com/AnjanaSenanayake/DeepSelectNet
+477,https://doi.org/10.1186/s12859-023-05151-0,DeepSelectNet: deep neural network based selective sequencing for oxford nanopore sequencing,2023-01-28,https://github.com/AnjanaSenanayake/SquiggleNet
+477,https://doi.org/10.1186/s12859-023-05151-0,DeepSelectNet: deep neural network based selective sequencing for oxford nanopore sequencing,2023-01-28,https://github.com/nanopore-wgs-consortium/NA12878
+477,https://doi.org/10.1186/s12859-023-05151-0,DeepSelectNet: deep neural network based selective sequencing for oxford nanopore sequencing,2023-01-28,https://github.com/hasindu2008/squigulator
+478,https://doi.org/10.1186/s12859-023-05150-1,Single-cell spatial explorer: easy exploration of spatial and multimodal transcriptomics,2023-01-27,https://github.com/JuliaLang/www.julialang.org
+478,https://doi.org/10.1186/s12859-023-05150-1,Single-cell spatial explorer: easy exploration of spatial and multimodal transcriptomics,2023-01-27,https://github.com/fyne-io/fyne
+478,https://doi.org/10.1186/s12859-023-05150-1,Single-cell spatial explorer: easy exploration of spatial and multimodal transcriptomics,2023-01-27,https://github.com/fiji/fiji
+478,https://doi.org/10.1186/s12859-023-05150-1,Single-cell spatial explorer: easy exploration of spatial and multimodal transcriptomics,2023-01-27,https://github.com/FredPont/spatial
+478,https://doi.org/10.1186/s12859-023-05150-1,Single-cell spatial explorer: easy exploration of spatial and multimodal transcriptomics,2023-01-27,https://github.com/FredPont/single-cell-virtual-cytometer
+480,https://doi.org/10.1186/s12859-022-05111-0,"Gdaphen, R pipeline to identify the most important qualitative and quantitative predictor variables from phenotypic data",2023-01-26,https://github.com/YaH44/GDAPHEN
+480,https://doi.org/10.1186/s12859-022-05111-0,"Gdaphen, R pipeline to identify the most important qualitative and quantitative predictor variables from phenotypic data",2023-01-26,https://github.com/munizmom/gdaphen
+481,https://doi.org/10.1186/s12859-022-05125-8,"nf-core/circrna: a portable workflow for the quantification, miRNA target prediction and differential expression analysis of circular RNAs",2023-01-24,https://github.com/BarryDigby/circRNA_simu
+481,https://doi.org/10.1186/s12859-022-05125-8,"nf-core/circrna: a portable workflow for the quantification, miRNA target prediction and differential expression analysis of circular RNAs",2023-01-24,https://github.com/nf-core/fetchngs
+481,https://doi.org/10.1186/s12859-022-05125-8,"nf-core/circrna: a portable workflow for the quantification, miRNA target prediction and differential expression analysis of circular RNAs",2023-01-24,https://github.com/nf-core/configs
+481,https://doi.org/10.1186/s12859-022-05125-8,"nf-core/circrna: a portable workflow for the quantification, miRNA target prediction and differential expression analysis of circular RNAs",2023-01-24,https://github.com/nf-core/circrna
+482,https://doi.org/10.1186/s12859-023-05145-y,Effective matrix designs for COVID-19 group testing,2023-01-24,https://github.com/johannesbrust/PP
+482,https://doi.org/10.1186/s12859-023-05145-y,Effective matrix designs for COVID-19 group testing,2023-01-24,https://github.com/tkluck/GaloisFields.jl
+484,https://doi.org/10.1186/s12859-022-05106-x,BADASS: BActeriocin-Diversity ASsessment Software,2023-01-20,https://github.com/kassambara/fastqcr
+485,https://doi.org/10.1186/s12859-022-05046-6,SVhound: detection of regions that harbor yet undetected structural variation,2023-01-20,https://github.com/lfpaulin/SVhound
+486,https://doi.org/10.1186/s12859-023-05147-w,Accommodating multiple potential normalizations in microbiome associations studies,2023-01-19,https://github.com/hoseungs/Omnibus_normalization
+487,https://doi.org/10.1186/s12859-023-05135-0,MultiScale-CNN-4mCPred: a multi-scale CNN and adaptive embedding-based method for mouse genome DNA N4-methylcytosine prediction,2023-01-18,https://github.com/paomian97/MultiScale_CNN_4mCPred
+490,https://doi.org/10.1186/s12859-022-05073-3,PDA-PRGCN: identification of Piwi-interacting RNA-disease associations through subgraph projection and residual scaling-based feature augmentation,2023-01-17,https://github.com/pzhangBIO/PDA-PRGCN
+491,https://doi.org/10.1186/s12859-022-05104-z,Identification of biomarkers predictive of metastasis development in early-stage colorectal cancer using network-based regularization,2023-01-16,https://github.com/sysbiomed/iTwiner
+492,https://doi.org/10.1186/s12859-023-05140-3,Identifying cancer driver genes based on multi-view heterogeneous graph convolutional network and self-attention mechanism,2023-01-13,https://github.com/weiba/MRNGCN
+494,https://doi.org/10.1186/s12859-022-05000-6,A lightweight classification of adaptor proteins using transformer networks,2022-11-04,https://github.com/ngphubinh/adaptors
+494,https://doi.org/10.1186/s12859-022-05000-6,A lightweight classification of adaptor proteins using transformer networks,2022-11-04,https://github.com/wangmou21/adaptor
+495,https://doi.org/10.1186/s12859-022-05084-0,xcore: an R package for inference of gene expression regulators,2023-01-11,https://github.com/mcjmigdal/xcoredata
+495,https://doi.org/10.1186/s12859-022-05084-0,xcore: an R package for inference of gene expression regulators,2023-01-11,https://github.com/bkaczkowski/xcore
+496,https://doi.org/10.1186/s12859-023-05136-z,DM-MOGA: a multi-objective optimization genetic algorithm for identifying disease modules of non-small cell lung cancer,2023-01-09,https://github.com/LyanMelrose/DM-MOGA
+498,https://doi.org/10.1186/s12859-022-05128-5,Using transfer learning and dimensionality reduction techniques to improve generalisability of machine-learning predictions of mosquito ages from mid-infrared spectra,2023-01-09,https://github.com/SimonAB/Gonzalez-Jimenez_MIRS
+499,https://doi.org/10.1186/s12859-022-05130-x,Negation detection in Dutch clinical texts: an evaluation of rule-based and machine learning methods,2023-01-09,https://github.com/umcu/negation-detection
+501,https://doi.org/10.1186/s12859-022-05123-w,A pseudo-value regression approach for differential network analysis of co-expression data,2023-01-09,https://github.com/sjahnn/PRANA
+502,https://doi.org/10.1186/s12859-022-05127-6,Machine learning to analyse omic-data for COVID-19 diagnosis and prognosis,2023-01-06,https://github.com/lxhwww/machine-learning-for-covid-19
+503,https://doi.org/10.1186/s12859-022-05120-z,ASV portal: an interface to DNA-based biodiversity data in the Living Atlas,2023-01-05,https://github.com/biodiversitydata-se/mol-mod
+504,https://doi.org/10.1186/s12859-022-05126-7,Single-cell multi-omics integration for unpaired data by a siamese network with graph-based contrastive loss,2023-01-04,https://github.com/ajwilk/COVID_scMultiome
+504,https://doi.org/10.1186/s12859-022-05126-7,Single-cell multi-omics integration for unpaired data by a siamese network with graph-based contrastive loss,2023-01-04,https://github.com/ChaozhongLiu/MinNet
+507,https://doi.org/10.1186/s12859-022-05116-9,A hybrid algorithm for clinical decision support in precision medicine based on machine learning,2023-01-03,https://github.com/zzc1991/TREC_Precision_Medicine_Track
+508,https://doi.org/10.1186/s12859-022-05114-x,A gene based combination test using GWAS summary data,2023-01-03,https://github.com/Xuexia-Wang/OWC-R-package

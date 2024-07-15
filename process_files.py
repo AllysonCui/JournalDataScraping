@@ -9,7 +9,7 @@ from pathlib import Path
 import tiktoken
 
 load_dotenv()
-OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
+OPENAI_API_KEY = os.getenv('OPENAI_USER_KEY')
 if not OPENAI_API_KEY:
     raise ValueError("OpenAI API key not found in the environment variables.")
 openai.api_key = OPENAI_API_KEY

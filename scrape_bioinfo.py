@@ -114,4 +114,11 @@ def retrieve_info(all_articles):
 
 if __name__ == "__main__":
     article_info = retrieve_info(combine_article_links())
+
+    # Remove rows where 'githubLink' is an empty list
+    article_info = article_info[article_info['githubLink'].map(len) > 0]
+
+    # Explode the 'githubLink' column to create a new row for each URL while duplicating the other column data
+    article_info = article_info.explode('githubLink')
+
     article_info.to_csv(os.path.join("data", "scientific_data_articles.csv"))
