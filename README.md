@@ -1,8 +1,12 @@
 # JournalDataScraping
 Journal: BMC-Bioinformatics
+
 Version: 24(2023)
+
 Website: https://bmcbioinformatics.biomedcentral.com/articles?query=&volume=24&searchType=&tab=keyword
+
 Benchmark project: https://github.com/anniecollins/Huon_ScientificDataScraping
+
 Goal: Scrape python files from articles with GitHub links that were published in 2023 on BMC-Bioinformatics, and send them to LLM (ChatGPT-4o) to detect errors.
 
 ## File description
