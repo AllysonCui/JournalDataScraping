@@ -19,7 +19,7 @@ The script did not use Springer Nature's API, but instead scraped directly from 
 | `doi`        | `STRING`  | Article DOI. DOIs are used as unique row IDs for this dataset.                                           | https://doi.org/10.1186/s12859-023-05599-0    |           
 | `title`      | `STRING`  | Journal article title.                                                                                   | "ICON-GEMs: integration of co-expression network in genome-scale metabolic models, shedding light through systems biology"     |                     
 | `pubDate`    | `DATE`    | Full online publication date.                                                                            | 2023-12-21    |                     
-| `githubLink` | `STR`     | Individual URL, when an article has multiple urls, the row is exploded so that each url has its own row. | https://github.com/ThummaratPaklao/ICOM-GEMs    |                     
+| `githubLink` | `STRING`  | Individual URL, when an article has multiple urls, the row is exploded so that each url has its own row. | https://github.com/ThummaratPaklao/ICOM-GEMs    |                     
 
 ### fork_and_clone.py
 I did not make non-trivial adjustment to this section.

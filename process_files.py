@@ -1,15 +1,12 @@
-import os
-import csv
 import openai
 from openai import OpenAI
 import os
-import time
 from dotenv import load_dotenv
 from pathlib import Path
 import tiktoken
 
 load_dotenv()
-OPENAI_API_KEY = os.getenv('OPENAI_USER_KEY')
+OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
 if not OPENAI_API_KEY:
     raise ValueError("OpenAI API key not found in the environment variables.")
 openai.api_key = OPENAI_API_KEY
@@ -56,7 +53,7 @@ def get_python_files(path, base_dir="client_projects"):
     return py_files
 
 
-def process_file(path_to_file_to_modify, model="gpt-4o", max_tokens=1024, delay_between_requests=5, temperature=1):
+def process_file(path_to_file_to_modify, model="gpt-3.5-turbo", max_tokens=1024, delay_between_requests=5, temperature=1):
 
     path_to_file_to_modify = Path(path_to_file_to_modify)
 

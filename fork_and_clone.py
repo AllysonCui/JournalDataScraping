@@ -1,11 +1,10 @@
-import pandas as pd
 import requests
 import os
 import time
-import git
+import git # pip install GitPython
 from git import GitCommandError
 import re
-from dotenv import load_dotenv
+from dotenv import load_dotenv # pip install python-dotenv
 
 load_dotenv()
 
