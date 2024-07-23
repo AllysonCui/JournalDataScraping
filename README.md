@@ -29,3 +29,5 @@ I did not make non-trivial adjustment to this section.
 
 ### main.py
 I made major adjustments to this section as the raw dataframe has a different format, and I rearranged the materials in a way that makes the most sense to me.
+
+It saves result for every step of 50 repo to avoid large quota loss due to potential error.
