@@ -111,18 +111,13 @@ def delete_small_csvs(some_csv, count):
     for i in range(1, count + 1):
         path = some_csv + "_" + str(i) + ".csv"
         full_path = os.path.join("data", path)
-        if os.path.exists(full_path):
-            os.remove(full_path)
-            print(f"Deleted {full_path}")
-        else:
-            print(f"{full_path} not found.")
+        os.remove(full_path)
+        print(f"Deleted {full_path}")
 
 
 def clear_directory(directory):
-    # Iterate over each item in the directory and remove if it's a file
     for file_name in os.listdir(directory):
         file_path = os.path.join(directory, file_name)
-        # Remove the file directly
         os.remove(file_path)
         print(f"Deleted {file_path}")
 
@@ -142,10 +137,11 @@ if __name__ == "__main__":
         print(f"Length final df = {len(annotated_df)}")
         count = start // step + 1
         annotated_df.to_csv(os.path.join("data",
-                                         f"annotated_scientific_data_articles_{count}.csv"))
+                                         f"annotated_scientific_data_articles_{count}.csv"), index=False)
         invalid_df.to_csv(os.path.join("data",
-                                       f"invalid_scientific_data_articles_{count}.csv"))
+                                       f"invalid_scientific_data_articles_{count}.csv"), index=False)
 
+    # Combine the results
     combine_csvs("annotated_scientific_data_articles")
     combine_csvs("invalid_scientific_data_articles")
 
