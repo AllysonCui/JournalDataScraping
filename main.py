@@ -148,10 +148,10 @@ if __name__ == "__main__":
     combine_csvs("annotated_scientific_data_articles")
     combine_csvs("invalid_scientific_data_articles")
 
-    # Some cloned repo is not deleted from the client_projects due to error
+    # Some cloned repos are not deleted from the client_projects due to error
     clear_directory("client_projects")
 
     # Remove the small csvs
-    # delete_small_csvs("annotated_scientific_data_articles", count)
-    # delete_small_csvs("invalid_scientific_data_articles", count)
+    delete_small_csvs("annotated_scientific_data_articles", count)
+    delete_small_csvs("invalid_scientific_data_articles", count)
 
