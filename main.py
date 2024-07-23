@@ -106,6 +106,7 @@ def combine_csvs(some_csv):
         df = pd.concat([df, small_df], ignore_index=True)
     df.to_csv(os.path.join("data", some_csv + ".csv"), index=False)
 
+
 def delete_small_csvs(some_csv, count):
     for i in range(1, count + 1):
         path = some_csv + "_" + str(i) + ".csv"
