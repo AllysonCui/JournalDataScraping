@@ -117,6 +117,15 @@ def delete_small_csvs(some_csv, count):
             print(f"{full_path} not found.")
 
 
+def clear_directory(directory):
+    # Iterate over each item in the directory and remove if it's a file
+    for file_name in os.listdir(directory):
+        file_path = os.path.join(directory, file_name)
+        # Remove the file directly
+        os.remove(file_path)
+        print(f"Deleted {file_path}")
+
+
 if __name__ == "__main__":
     articles = pd.read_csv(os.path.join("data", "scientific_data_articles.csv"))
 
@@ -138,6 +147,9 @@ if __name__ == "__main__":
 
     combine_csvs("annotated_scientific_data_articles")
     combine_csvs("invalid_scientific_data_articles")
+
+    # Some cloned repo is not deleted from the client_projects due to error
+    clear_directory("client_projects")
 
     # Remove the small csvs
     # delete_small_csvs("annotated_scientific_data_articles", count)
