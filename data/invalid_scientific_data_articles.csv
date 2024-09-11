@@ -1,41 +1,8 @@
-,Unnamed: 0,doi,title,pubDate,githubLink,0
-0,,,,,,108
-1,,,,,,https://doi.org/10.1186/s12859-023-05486-8
-2,,,,,,Unbiased image segmentation assessment toolkit for quantitative differentiation of state-of-the-art algorithms and pipelines
-3,,,,,,2023-10-12
-4,,,,,,https://github.com/PolusAI/polus-plugins
-5,,,,,,109
-6,,,,,,https://doi.org/10.1186/s12859-023-05512-9
-7,,,,,,cgMSI: pathogen detection within species from nanopore metagenomic sequencing data
-8,,,,,,2023-10-12
-9,,,,,,https://github.com/LomanLab/mockcommunity#data-availability
-0,,,,,,209
-1,,,,,,https://doi.org/10.1186/s12859-023-05385-y
-2,,,,,,MitoHiFi: a python pipeline for mitochondrial genome assembly from PacBio high fidelity reads
-3,,,,,,2023-07-18
-4,,,,,,https://github.com/marcelauliano
-5,,,,,,262
-6,,,,,,https://doi.org/10.1186/s12859-023-05345-6
-7,,,,,,Biotite: new tools for a versatile Python bioinformatics library
-8,,,,,,2023-06-05
-9,,,,,,https://github.com/biotite-dev/
-0,,,,,,370
-1,,,,,,https://doi.org/10.1186/s12859-023-05247-7
-2,,,,,,A two-stage hybrid biomarker selection method based on ensemble filter and binary differential evolution incorporating binary African vultures optimization
-3,,,,,,2023-04-04
-4,,,,,,https://github.com/xwdshiwo/BioFSDatasets
-5,,,,,,374
-6,,,,,,https://doi.org/10.1186/s12859-023-05251-x
-7,,,,,,Automatic disease prediction from human gut metagenomic data using boosting GraphSAGE
-8,,,,,,2023-03-31
-9,,,,,,https://github.com/SchlossLab
-10,,,,,,190
-11,,,,,,https://doi.org/10.1186/s12859-023-05251-x
-12,,,,,,Automatic disease prediction from human gut metagenomic data using boosting GraphSAGE
-13,,,,,,2023-03-31
-14,,,,,,https://github.com/SchlossLab
-0,,,,,,460
-1,,,,,,https://doi.org/10.1186/s12859-023-05166-7
-2,,,,,,A fair experimental comparison of neural network architectures for latent representations of multi-omics for drug response prediction
-3,,,,,,2023-02-14
-4,,,,,,https://github.com/kramerlab/Multi-Omics_analysis
+Unnamed: 0.1,Unnamed: 0,doi,title,pubDate,githubLink,0
+0,109,https://doi.org/10.1186/s12859-023-05486-8,Unbiased image segmentation assessment toolkit for quantitative differentiation of state-of-the-art algorithms and pipelines,2023-10-12,https://github.com/PolusAI/polus-plugins,
+1,110,https://doi.org/10.1186/s12859-023-05512-9,cgMSI: pathogen detection within species from nanopore metagenomic sequencing data,2023-10-12,https://github.com/LomanLab/mockcommunity#data-availability,
+2,189,https://doi.org/10.1186/s12859-023-05251-x,Automatic disease prediction from human gut metagenomic data using boosting GraphSAGE,2023-03-31,https://github.com/SchlossLab,
+3,209,https://doi.org/10.1186/s12859-023-05385-y,MitoHiFi: a python pipeline for mitochondrial genome assembly from PacBio high fidelity reads,2023-07-18,https://github.com/marcelauliano,
+4,261,https://doi.org/10.1186/s12859-023-05345-6,Biotite: new tools for a versatile Python bioinformatics library,2023-06-05,https://github.com/biotite-dev/,
+5,369,https://doi.org/10.1186/s12859-023-05247-7,A two-stage hybrid biomarker selection method based on ensemble filter and binary differential evolution incorporating binary African vultures optimization,2023-04-04,https://github.com/xwdshiwo/BioFSDatasets,
+6,453,https://doi.org/10.1186/s12859-023-05166-7,A fair experimental comparison of neural network architectures for latent representations of multi-omics for drug response prediction,2023-02-14,https://github.com/kramerlab/Multi-Omics_analysis,

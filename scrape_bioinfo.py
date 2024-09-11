@@ -5,6 +5,7 @@ import pandas as pd
 import tqdm
 import os
 
+
 def get_article_links(page, url = 'https://bmcbioinformatics.biomedcentral.com/articles?tab=keyword&searchType=journalSearch&sort=PubDate&volume=24&page='):
     url = url + str(page)
     response = requests.get(url)
@@ -19,6 +20,7 @@ def get_article_links(page, url = 'https://bmcbioinformatics.biomedcentral.com/a
         if 'pdf' not in href and href not in articles and '10.1186' in href:
             articles.append(href)
     return articles
+
 
 def combine_article_links():
     all_articles = []
@@ -64,6 +66,9 @@ def retrieve_info(all_articles):
         parent = doi_abbr.find_parent()
         doi_span = parent.find('span',
                                class_='c-bibliographic-information__value')
+        doi = doi_span.text.strip()
+        if doi in doi_links:
+            continue
         doi_links.append(doi_span.text.strip())
 
         # Find title
@@ -111,6 +116,7 @@ def retrieve_info(all_articles):
     })
     print(df.info())
     return df
+
 
 if __name__ == "__main__":
     article_info = retrieve_info(combine_article_links())
